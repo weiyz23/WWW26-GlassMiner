@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "GlassMiner: Mining Looking Glass Services via Structure-Semantics Fusion for Web Observability"
-email: anonymous@none.com
-author: "WWW 2026 - Submission 4073"
+email: weiyz23@mails.tsinghua.edu.cn
+author: "Yunze Wei, Xingang Shi, Han Zhang, Tianyu Zhang, Yahui Li, and Xia Yin."
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a demo site for the paper "GlassMiner: Mining Looking Glass Services via Structure-Semantics Fusion for Web Observability" submitted to WWW 2026. We demonstrate the discovered Looking Glass VPs and the corresponding network and geolocation information.
-baseurl: "/GlassMiner" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: GlassMiner
-github_repository: https://anonymous.4open.science/r/WWW26-GlassMiner-4073/
+  This is a demo site for the paper "GlassMiner: Mining Looking Glass Services via Structure-Semantics Fusion for Web Observability" accepted to WWW 2026. We demonstrate the discovered Looking Glass VPs and the corresponding network and geolocation information.
+baseurl: "/WWW26-GlassMiner"
+url: "https://weiyz23.github.io"
+github_username: weiyz23
+github_repository: https://github.com/weiyz23/WWW26-GlassMiner
 # Build settings
 theme: minima
 plugins:
