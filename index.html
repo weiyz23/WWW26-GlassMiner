@@ -1,0 +1,86 @@
+---
+layout: default
+title: "Looking Glass List"
+permalink: /
+---
+<!-- 并列地放置两个filter 一个筛选命令，一个筛选是否可自动化 -->
+<label for="commandFilter"><strong>Filter by Command:</strong></label>
+<select id="commandFilter" onchange="applyFilters()">
+  <option value="all">All</option>
+  {% assign all_commands = site.data.lookingglass | map: "command" | join: "," | split: "," | uniq | sort %}
+  {% for cmd in all_commands %}
+  <option value="{{ cmd | strip }}">{{ cmd | strip }}</option>
+  {% endfor %}
+</select>
+<label for="autoFilter"><strong>Filter by Automation:</strong></label>
+<select id="autoFilter" onchange="applyFilters()">
+  <option value="all">All</option>
+  <option value="yes">Yes</option>
+  <option value="no">No</option>
+</select>
+
+<table id="lgTable">
+  <thead>
+    <tr>
+      <th>URL</th>
+      <th>IP</th>
+      <th>Country</th>
+      <th>ASN</th>
+      <th>Commands</th>
+      <th>Automatable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- sort by asn -->
+    {% for server in site.data.lookingglass %}
+    <tr data-commands="{{ server.command | join: ',' }}">
+      <td style="padding: 8px;"><strong>{{ server.url }}</strong></td>
+      <td>{{ server.ip_addr }}</td>
+      <td>{{ server.country }}</td>
+      <td>{{ server.asn }}</td>
+      <td>
+        {% for cmd in server.command %}
+        <span class="command-tag">{{ cmd }}</span>
+        {% endfor %}
+      </td>
+      <td>
+        <input type="checkbox" {% if server.automatable %}checked{% endif %} disabled>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script>
+function applyFilters() {
+  const commandSelected = document.getElementById("commandFilter").value;
+  const autoSelected = document.getElementById("autoFilter").value;
+  const rows = document.querySelectorAll("#lgTable tbody tr");
+
+  rows.forEach(row => {
+    // 获取命令过滤条件
+    const commands = row.getAttribute("data-commands").split(',');
+    const commandMatch = commandSelected === "all" || commands.includes(commandSelected);
+    
+    // 获取自动化过滤条件
+    const isAutoStr = row.getAttribute("data-automatable");
+    // 布尔值处理：检查是否等于字符串 "true" 或存在复选框并被选中
+    const isAuto = isAutoStr === "true" || row.querySelector("input[type=checkbox]").checked;
+    const autoMatch = autoSelected === "all" || 
+                     (autoSelected === "yes" && isAuto) || 
+                     (autoSelected === "no" && !isAuto);
+    
+    // 两个过滤条件都满足才显示
+    if (commandMatch && autoMatch) {
+      row.style.display = "";
+    } else {
+      row.style.display = "none";
+    }
+  });
+}
+
+// 页面加载后初始化
+document.addEventListener('DOMContentLoaded', function() {
+  applyFilters();
+});
+</script>

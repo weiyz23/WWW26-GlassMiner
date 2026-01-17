@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Country View"
+permalink: /country/
+---
+<div id="map" style="height: 500px;">
+    <!-- Map will be rendered here -->
+</div>
+
+<div id="vpCountDisplay">
+    Please select a country on the map to see the LG VPs.
+</div>
+
+<table id="lgTable">
+    <thead>
+      <tr>
+        <th>URL</th>
+        <th>IP</th>
+        <th>Country</th>
+        <th>ASN</th>
+        <th>Commands</th>
+        <th>Automatable</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Update by the script below -->
+    </tbody>
+</table>
+
+<script>
+  const customIcon = L.icon({
+    iconUrl: "{{ '/assets/images/pin.png' | relative_url }}",
+    iconSize: [24, 24],
+    iconAnchor: [12, 24],
+    popupAnchor: [0, -24]
+  });
+</script>
+<script src="{{ '/assets/js/map.js' | relative_url }}"></script>

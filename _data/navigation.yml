@@ -1,0 +1,9 @@
+- title: "Looking Glass List"
+  url: "/"
+  weight: 1
+- title: "Country View"
+  url: "/country/"
+  weight: 2
+# - title: "Network View"
+#   url: "/network/"
+#   weight: 3

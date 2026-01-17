@@ -1,0 +1,21 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign nav_items = site.data.navigation | sort:"weight" %}
+    <h2 class="site-title">{{ site.title | escape }}</h2>
+
+    {%- if nav_items -%}
+      <nav class="site-nav">
+        <div class="trigger">
+          {%- for nav_item in nav_items -%}
+            {%- if nav_item.title -%}
+            <!-- <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> -->
+            <a class="page-link {% if page.url == nav_item.url %} active{% endif %}" href="{{ site.baseurl }}{{ nav_item.url }}">{{ nav_item.title }}</a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>
