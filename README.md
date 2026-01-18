@@ -14,7 +14,7 @@ GlassMiner is a framework designed to mine and analyze the Looking Glass (LG) se
 
 ## Result List
 
-You can find the result list of our paper [here](https://glassminer.github.io/GlassMiner/).
+You can find the result list of our paper [here](https://weiyz23.github.io/WWW26-GlassMiner/country/).
 
 ## How to use
 
