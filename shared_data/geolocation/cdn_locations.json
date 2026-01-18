@@ -1,0 +1,3720 @@
+{
+  "Microsoft": [
+    {
+      "country_code": "AU",
+      "city": "Forrest",
+      "latitude": "-35.31499",
+      "longitude": "149.12859",
+      "index": 0,
+      "description": "Australia Central, Canberra"
+    },
+    {
+      "country_code": "AU",
+      "city": "Dungog",
+      "latitude": "-32.40032",
+      "longitude": "151.75758",
+      "index": 1,
+      "description": "Australia East, New South Wales"
+    },
+    {
+      "country_code": "AU",
+      "city": "Kinglake West",
+      "latitude": "-37.46667",
+      "longitude": "145.23333",
+      "index": 2,
+      "description": "Australia Southeast, Victoria"
+    },
+    {
+      "country_code": "US",
+      "city": "Camden",
+      "latitude": "43.33451",
+      "longitude": "-75.74796",
+      "index": 3,
+      "description": "Austria East, Vienna"
+    },
+    {
+      "country_code": "BE",
+      "city": "Brussels",
+      "latitude": "50.85045",
+      "longitude": "4.34878",
+      "index": 4,
+      "description": "Belgium Central, Brussels"
+    },
+    {
+      "country_code": "BR",
+      "city": "Sao Paulo",
+      "latitude": "-23.5475",
+      "longitude": "-46.63611",
+      "index": 5,
+      "description": "Brazil South, São Paulo State"
+    },
+    {
+      "country_code": "CA",
+      "city": "Toronto",
+      "latitude": "43.70011",
+      "longitude": "-79.4163",
+      "index": 6,
+      "description": "Canada Central, Toronto"
+    },
+    {
+      "country_code": "CA",
+      "city": "Quebec",
+      "latitude": "46.81228",
+      "longitude": "-71.21454",
+      "index": 7,
+      "description": "Canada East, Quebec City"
+    },
+    {
+      "country_code": "IN",
+      "city": "Pune",
+      "latitude": "18.51957",
+      "longitude": "73.85535",
+      "index": 8,
+      "description": "Central India, Pune"
+    },
+    {
+      "country_code": "US",
+      "city": "Nevada",
+      "latitude": "42.02277",
+      "longitude": "-93.45243",
+      "index": 9,
+      "description": "Central US, Iowa"
+    },
+    {
+      "country_code": "CL",
+      "city": "Lo Prado",
+      "latitude": "-33.4443",
+      "longitude": "-70.72552",
+      "index": 10,
+      "description": "Chile Central, Santiago"
+    },
+    {
+      "country_code": "CN",
+      "city": "Minhang",
+      "latitude": "31.10881",
+      "longitude": "121.37471",
+      "index": 11,
+      "description": "China East, Shanghai"
+    },
+    {
+      "country_code": "CN",
+      "city": "Jingshan",
+      "latitude": "39.92528",
+      "longitude": "116.40411",
+      "index": 12,
+      "description": "China North, Beijing"
+    },
+    {
+      "country_code": "CN",
+      "city": "Baoding",
+      "latitude": "38.85111",
+      "longitude": "115.49028",
+      "index": 13,
+      "description": "China North, Hebei"
+    },
+    {
+      "country_code": "US",
+      "city": "West Carthage",
+      "latitude": "43.97423",
+      "longitude": "-75.61519",
+      "index": 14,
+      "description": "Denmark East, Copenhagen"
+    },
+    {
+      "country_code": "HK",
+      "city": "Wan Chai",
+      "latitude": "22.28142",
+      "longitude": "114.17258",
+      "index": 15,
+      "description": "East Asia, Hong Kong"
+    },
+    {
+      "country_code": "US",
+      "city": "Virginia Beach",
+      "latitude": "36.85293",
+      "longitude": "-75.97799",
+      "index": 16,
+      "description": "East US, Virginia"
+    },
+    {
+      "country_code": "US",
+      "city": "Hapeville",
+      "latitude": "33.66011",
+      "longitude": "-84.4102",
+      "index": 17,
+      "description": "East US, Georgia"
+    },
+    {
+      "country_code": "GT",
+      "city": "Pueblo Nuevo",
+      "latitude": "14.65",
+      "longitude": "-91.53333",
+      "index": 18,
+      "description": "France Central, Paris"
+    },
+    {
+      "country_code": "DE",
+      "city": "Niederrad",
+      "latitude": "50.08309",
+      "longitude": "8.62852",
+      "index": 19,
+      "description": "Germany West Central, Frankfurt"
+    },
+    {
+      "country_code": "GR",
+      "city": "Athens",
+      "latitude": "37.97945",
+      "longitude": "23.71622",
+      "index": 20,
+      "description": "Greece Central, Athens"
+    },
+    {
+      "country_code": "IN",
+      "city": "Hyderabad",
+      "latitude": "17.38405",
+      "longitude": "78.45636",
+      "index": 21,
+      "description": "India South Central, Hyderabad"
+    },
+    {
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": "-6.21462",
+      "longitude": "106.84513",
+      "index": 22,
+      "description": "Indonesia Central, Jakarta"
+    },
+    {
+      "country_code": "IL",
+      "city": "Rishon LeZiyyon",
+      "latitude": "31.97102",
+      "longitude": "34.78939",
+      "index": 23,
+      "description": "Israel Central, Israel"
+    },
+    {
+      "country_code": "IT",
+      "city": "Sesto San Giovanni",
+      "latitude": "45.53449",
+      "longitude": "9.23401",
+      "index": 24,
+      "description": "Italy North, Milan"
+    },
+    {
+      "country_code": "JP",
+      "city": "Matsudo",
+      "latitude": "35.78333",
+      "longitude": "139.9",
+      "index": 25,
+      "description": "Japan East, Tokyo"
+    },
+    {
+      "country_code": "JP",
+      "city": "Suita",
+      "latitude": "34.76143",
+      "longitude": "135.51567",
+      "index": 26,
+      "description": "Japan West, Osaka"
+    },
+    {
+      "country_code": "KR",
+      "city": "Kwangmyong",
+      "latitude": "37.47722",
+      "longitude": "126.86639",
+      "index": 27,
+      "description": "Korea Central, Seoul"
+    },
+    {
+      "country_code": "MY",
+      "city": "Kuala Lumpur",
+      "latitude": "3.1412",
+      "longitude": "101.68653",
+      "index": 28,
+      "description": "Malaysia West, Kuala Lumpur"
+    },
+    {
+      "country_code": "MX",
+      "city": "Ejido Yucatan",
+      "latitude": "32.60435",
+      "longitude": "-115.0938",
+      "index": 29,
+      "description": "Mexico Central, Querétaro State"
+    },
+    {
+      "country_code": "NZ",
+      "city": "North Shore",
+      "latitude": "-36.8",
+      "longitude": "174.75",
+      "index": 30,
+      "description": "New Zealand North, Auckland"
+    },
+    {
+      "country_code": "US",
+      "city": "Mount Pulaski",
+      "latitude": "40.01088",
+      "longitude": "-89.28231",
+      "index": 31,
+      "description": "North Central US, Illinois"
+    },
+    {
+      "country_code": "GB",
+      "city": "Bangor",
+      "latitude": "54.65338",
+      "longitude": "-5.66895",
+      "index": 32,
+      "description": "North Europe, Ireland"
+    },
+    {
+      "country_code": "FI",
+      "city": "Teekkarikylae",
+      "latitude": "60.18959",
+      "longitude": "24.83502",
+      "index": 33,
+      "description": "North Europe, Helsinki"
+    },
+    {
+      "country_code": "NO",
+      "city": "Oslo",
+      "latitude": "59.91273",
+      "longitude": "10.74609",
+      "index": 34,
+      "description": "Norway East, Oslo"
+    },
+    {
+      "country_code": "PL",
+      "city": "Warsaw",
+      "latitude": "52.22977",
+      "longitude": "21.01178",
+      "index": 35,
+      "description": "Poland Central, Warsaw"
+    },
+    {
+      "country_code": "QA",
+      "city": "Doha",
+      "latitude": "25.27932",
+      "longitude": "51.52245",
+      "index": 36,
+      "description": "Qatar Central, Doha"
+    },
+    {
+      "country_code": "SA",
+      "city": "Dammam",
+      "latitude": "26.43442",
+      "longitude": "50.10326",
+      "index": 37,
+      "description": "Saudi Arabia East, Dammam"
+    },
+    {
+      "country_code": "ZA",
+      "city": "Johannesburg",
+      "latitude": "-26.20227",
+      "longitude": "28.04363",
+      "index": 38,
+      "description": "South Africa North, Johannesburg"
+    },
+    {
+      "country_code": "US",
+      "city": "Jourdanton",
+      "latitude": "28.91803",
+      "longitude": "-98.54641",
+      "index": 39,
+      "description": "South Central US, Texas"
+    },
+    {
+      "country_code": "IN",
+      "city": "George Town",
+      "latitude": "13.0926",
+      "longitude": "80.2801",
+      "index": 40,
+      "description": "South India, Chennai"
+    },
+    {
+      "country_code": "SG",
+      "city": "Singapore",
+      "latitude": "1.28967",
+      "longitude": "103.85007",
+      "index": 41,
+      "description": "Southeast Asia, Singapore"
+    },
+    {
+      "country_code": "ES",
+      "city": "Tres Cantos",
+      "latitude": "40.60092",
+      "longitude": "-3.70806",
+      "index": 42,
+      "description": "Spain Central, Madrid"
+    },
+    {
+      "country_code": "SE",
+      "city": "Gavle",
+      "latitude": "60.67452",
+      "longitude": "17.14174",
+      "index": 43,
+      "description": "Sweden Central, Gävle"
+    },
+    {
+      "country_code": "CH",
+      "city": "Zuerich (Kreis 11) / Oerlikon",
+      "latitude": "47.40823",
+      "longitude": "8.54258",
+      "index": 44,
+      "description": "Switzerland North, Zürich"
+    },
+    {
+      "country_code": "TW",
+      "city": "Taichung",
+      "latitude": "24.1469",
+      "longitude": "120.6839",
+      "index": 45,
+      "description": "Taiwan North, Taipei"
+    },
+    {
+      "country_code": "AE",
+      "city": "Sharjah",
+      "latitude": "25.33737",
+      "longitude": "55.41206",
+      "index": 46,
+      "description": "UAE North, Dubai"
+    },
+    {
+      "country_code": "GB",
+      "city": "Thornton Heath",
+      "latitude": "51.39884",
+      "longitude": "-0.09872",
+      "index": 47,
+      "description": "UK South, London"
+    },
+    {
+      "country_code": "AU",
+      "city": "Collie",
+      "latitude": "-33.36206",
+      "longitude": "116.15617",
+      "index": 48,
+      "description": "UK West, Cardiff"
+    },
+    {
+      "country_code": "US",
+      "city": "Wyoming",
+      "latitude": "45.33636",
+      "longitude": "-92.99716",
+      "index": 49,
+      "description": "West Central US, Wyoming"
+    },
+    {
+      "country_code": "NL",
+      "city": "Enkhuizen",
+      "latitude": "52.70333",
+      "longitude": "5.29167",
+      "index": 50,
+      "description": "West Europe, Netherlands"
+    },
+    {
+      "country_code": "US",
+      "city": "Lucerne Valley",
+      "latitude": "34.44389",
+      "longitude": "-116.96781",
+      "index": 51,
+      "description": "West US, California"
+    },
+    {
+      "country_code": "US",
+      "city": "Cashmere",
+      "latitude": "47.52235",
+      "longitude": "-120.4698",
+      "index": 52,
+      "description": "West US, Washington"
+    },
+    {
+      "country_code": "US",
+      "city": "Pine",
+      "latitude": "34.38447",
+      "longitude": "-111.45514",
+      "index": 53,
+      "description": "West US, Arizona"
+    }
+  ],
+  "Google": [
+    {
+      "country_code": "US",
+      "city": "Ashburn",
+      "latitude": "39.04372",
+      "longitude": "-77.48749",
+      "index": 0,
+      "description": "Ashburn, Virginia, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Atlanta",
+      "latitude": "33.749",
+      "longitude": "-84.38798",
+      "index": 1,
+      "description": "Atlanta, Georgia, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Charleston",
+      "latitude": "32.77657",
+      "longitude": "-79.93092",
+      "index": 2,
+      "description": "Charleston, South Carolina, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Chicago",
+      "latitude": "41.85003",
+      "longitude": "-87.65005",
+      "index": 3,
+      "description": "Chicago, Illinois, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Columbus",
+      "latitude": "39.96118",
+      "longitude": "-82.99879",
+      "index": 4,
+      "description": "Columbus, Ohio, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Council Bluffs",
+      "latitude": "41.26194",
+      "longitude": "-95.86083",
+      "index": 5,
+      "description": "Council Bluffs, Iowa, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Fort Worth",
+      "latitude": "32.72541",
+      "longitude": "-97.32085",
+      "index": 6,
+      "description": "Dallas/Fort Worth, Texas, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Denver",
+      "latitude": "39.73915",
+      "longitude": "-104.9847",
+      "index": 7,
+      "description": "Denver, Colorado, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Las Vegas",
+      "latitude": "36.17497",
+      "longitude": "-115.13722",
+      "index": 8,
+      "description": "Las Vegas, Nevada, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Kinston",
+      "latitude": "35.26266",
+      "longitude": "-77.58164",
+      "index": 9,
+      "description": "Lenoir, North Carolina, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Los Angeles",
+      "latitude": "34.05223",
+      "longitude": "-118.24368",
+      "index": 10,
+      "description": "Los Angeles, California, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Miami",
+      "latitude": "25.77427",
+      "longitude": "-80.19366",
+      "index": 11,
+      "description": "Miami, Florida, US"
+    },
+    {
+      "country_code": "CA",
+      "city": "Montreal",
+      "latitude": "45.50884",
+      "longitude": "-73.58781",
+      "index": 12,
+      "description": "Montréal, Québec, Canada"
+    },
+    {
+      "country_code": "US",
+      "city": "New York City",
+      "latitude": "40.71427",
+      "longitude": "-74.00597",
+      "index": 13,
+      "description": "New York, New York, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Phoenix",
+      "latitude": "33.44838",
+      "longitude": "-112.07404",
+      "index": 14,
+      "description": "Phoenix, Arizona, US"
+    },
+    {
+      "country_code": "MX",
+      "city": "Santiago de Queretaro",
+      "latitude": "20.58806",
+      "longitude": "-100.38806",
+      "index": 15,
+      "description": "Querétaro, Mexico"
+    },
+    {
+      "country_code": "US",
+      "city": "Cold Springs",
+      "latitude": "39.68019",
+      "longitude": "-119.97659",
+      "index": 16,
+      "description": "Reno, California, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Salt Lake City",
+      "latitude": "40.76078",
+      "longitude": "-111.89105",
+      "index": 17,
+      "description": "Salt Lake City, Utah, US"
+    },
+    {
+      "country_code": "US",
+      "city": "San Francisco",
+      "latitude": "37.77493",
+      "longitude": "-122.41942",
+      "index": 18,
+      "description": "San Francisco, California, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Seattle",
+      "latitude": "47.60621",
+      "longitude": "-122.33207",
+      "index": 19,
+      "description": "Seattle, Washington, US"
+    },
+    {
+      "country_code": "US",
+      "city": "Stevenson",
+      "latitude": "34.86869",
+      "longitude": "-85.83942",
+      "index": 20,
+      "description": "Stevenson, Alabama, US"
+    },
+    {
+      "country_code": "US",
+      "city": "The Dalles",
+      "latitude": "45.59456",
+      "longitude": "-121.17868",
+      "index": 21,
+      "description": "The Dalles, Oregon, US"
+    },
+    {
+      "country_code": "CA",
+      "city": "Toronto",
+      "latitude": "43.70011",
+      "longitude": "-79.4163",
+      "index": 22,
+      "description": "Toronto, Ontario, Canada"
+    },
+    {
+      "country_code": "US",
+      "city": "Tulsa",
+      "latitude": "36.15398",
+      "longitude": "-95.99277",
+      "index": 23,
+      "description": "Tulsa, Oklahoma, US"
+    },
+    {
+      "country_code": "CO",
+      "city": "Bogota",
+      "latitude": "4.60971",
+      "longitude": "-74.08175",
+      "index": 24,
+      "description": "Bogotá, Colombia"
+    },
+    {
+      "country_code": "AR",
+      "city": "Buenos Aires",
+      "latitude": "-34.61315",
+      "longitude": "-58.37723",
+      "index": 25,
+      "description": "Buenos Aires, Argentina"
+    },
+    {
+      "country_code": "BR",
+      "city": "Rio de Janeiro",
+      "latitude": "-22.90278",
+      "longitude": "-43.2075",
+      "index": 26,
+      "description": "Rio de Janeiro, Brazil"
+    },
+    {
+      "country_code": "CL",
+      "city": "Santiago",
+      "latitude": "-33.45694",
+      "longitude": "-70.64827",
+      "index": 27,
+      "description": "Santiago, Chile"
+    },
+    {
+      "country_code": "BR",
+      "city": "Sao Paulo",
+      "latitude": "-23.5475",
+      "longitude": "-46.63611",
+      "index": 28,
+      "description": "São Paulo, Brazil"
+    },
+    {
+      "country_code": "NL",
+      "city": "Amsterdam",
+      "latitude": "52.37403",
+      "longitude": "4.88969",
+      "index": 29,
+      "description": "Amsterdam, Netherlands"
+    },
+    {
+      "country_code": "DE",
+      "city": "Berlin",
+      "latitude": "52.52437",
+      "longitude": "13.41053",
+      "index": 30,
+      "description": "Berlin, Germany"
+    },
+    {
+      "country_code": "HU",
+      "city": "Budapest",
+      "latitude": "47.49801",
+      "longitude": "19.03991",
+      "index": 31,
+      "description": "Budapest, Hungary"
+    },
+    {
+      "country_code": "NL",
+      "city": "Den Helder",
+      "latitude": "52.95988",
+      "longitude": "4.75933",
+      "index": 32,
+      "description": "Den Helder, Netherlands"
+    },
+    {
+      "country_code": "IE",
+      "city": "Dublin",
+      "latitude": "53.33306",
+      "longitude": "-6.24889",
+      "index": 33,
+      "description": "Dublin, Ireland"
+    },
+    {
+      "country_code": "DE",
+      "city": "Frankfurt am Main",
+      "latitude": "50.11552",
+      "longitude": "8.68417",
+      "index": 34,
+      "description": "Frankfurt, Germany"
+    },
+    {
+      "country_code": "NL",
+      "city": "Groningen",
+      "latitude": "53.21917",
+      "longitude": "6.56667",
+      "index": 35,
+      "description": "Groningen, Netherlands"
+    },
+    {
+      "country_code": "DE",
+      "city": "Altstadt",
+      "latitude": "53.55",
+      "longitude": "10",
+      "index": 36,
+      "description": "Hamburg, Germany"
+    },
+    {
+      "country_code": "FI",
+      "city": "Hamina",
+      "latitude": "60.56974",
+      "longitude": "27.19794",
+      "index": 37,
+      "description": "Hamina, Finland"
+    },
+    {
+      "country_code": "FI",
+      "city": "Helsinki",
+      "latitude": "60.16952",
+      "longitude": "24.93545",
+      "index": 38,
+      "description": "Helsinki, Finland"
+    },
+    {
+      "country_code": "GB",
+      "city": "London",
+      "latitude": "51.50853",
+      "longitude": "-0.12574",
+      "index": 39,
+      "description": "London, England"
+    },
+    {
+      "country_code": "ES",
+      "city": "Madrid",
+      "latitude": "40.4165",
+      "longitude": "-3.70256",
+      "index": 40,
+      "description": "Madrid, Spain"
+    },
+    {
+      "country_code": "FR",
+      "city": "Marseille",
+      "latitude": "43.29695",
+      "longitude": "5.38107",
+      "index": 41,
+      "description": "Marseille, France"
+    },
+    {
+      "country_code": "IT",
+      "city": "Milano",
+      "latitude": "45.46427",
+      "longitude": "9.18951",
+      "index": 42,
+      "description": "Milan, Italy"
+    },
+    {
+      "country_code": "DE",
+      "city": "Munich",
+      "latitude": "48.13743",
+      "longitude": "11.57549",
+      "index": 43,
+      "description": "Munich, Germany"
+    },
+    {
+      "country_code": "FR",
+      "city": "Paris",
+      "latitude": "48.85341",
+      "longitude": "2.3488",
+      "index": 44,
+      "description": "Paris, France"
+    },
+    {
+      "country_code": "CZ",
+      "city": "Prague",
+      "latitude": "50.08804",
+      "longitude": "14.42076",
+      "index": 45,
+      "description": "Prague, Czech Republic"
+    },
+    {
+      "country_code": "BG",
+      "city": "Sofia",
+      "latitude": "42.69751",
+      "longitude": "23.32415",
+      "index": 46,
+      "description": "Sofia, Bulgaria"
+    },
+    {
+      "country_code": "BE",
+      "city": "Saint-Ghislain",
+      "latitude": "50.44816",
+      "longitude": "3.81886",
+      "index": 47,
+      "description": "St. Ghislain, Belgium"
+    },
+    {
+      "country_code": "SE",
+      "city": "Stockholm",
+      "latitude": "59.33258",
+      "longitude": "18.0649",
+      "index": 48,
+      "description": "Stockholm, Sweden"
+    },
+    {
+      "country_code": "IT",
+      "city": "Turin",
+      "latitude": "45.07049",
+      "longitude": "7.68682",
+      "index": 49,
+      "description": "Turin, Italy"
+    },
+    {
+      "country_code": "PL",
+      "city": "Warsaw",
+      "latitude": "52.22977",
+      "longitude": "21.01178",
+      "index": 50,
+      "description": "Warsaw, Poland"
+    },
+    {
+      "country_code": "CH",
+      "city": "Zurich",
+      "latitude": "47.36667",
+      "longitude": "8.55",
+      "index": 51,
+      "description": "Zurich, Switzerland"
+    },
+    {
+      "country_code": "QA",
+      "city": "Doha",
+      "latitude": "25.27932",
+      "longitude": "51.52245",
+      "index": 52,
+      "description": "Doha, Qatar"
+    },
+    {
+      "country_code": "AE",
+      "city": "Al Fujayrah",
+      "latitude": "25.11641",
+      "longitude": "56.34141",
+      "index": 53,
+      "description": "Fujairah, United Arab Emirates"
+    },
+    {
+      "country_code": "OM",
+      "city": "Hayma'",
+      "latitude": "19.95931",
+      "longitude": "56.27575",
+      "index": 54,
+      "description": "Muscat, Oman"
+    },
+    {
+      "country_code": "IL",
+      "city": "Tel Aviv",
+      "latitude": "32.08088",
+      "longitude": "34.78057",
+      "index": 55,
+      "description": "Tel Aviv, Israel"
+    },
+    {
+      "country_code": "TH",
+      "city": "Bangkok",
+      "latitude": "13.75398",
+      "longitude": "100.50144",
+      "index": 56,
+      "description": "Bangkok, Thailand"
+    },
+    {
+      "country_code": "TW",
+      "city": "Chang-hua",
+      "latitude": "24.07327",
+      "longitude": "120.56276",
+      "index": 57,
+      "description": "Changhua County, Taiwan"
+    },
+    {
+      "country_code": "IN",
+      "city": "Chennai",
+      "latitude": "13.08784",
+      "longitude": "80.27847",
+      "index": 58,
+      "description": "Chennai, India"
+    },
+    {
+      "country_code": "HK",
+      "city": "Wan Chai",
+      "latitude": "22.28142",
+      "longitude": "114.17258",
+      "index": 59,
+      "description": "Hong Kong SAR, China"
+    },
+    {
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": "-6.21462",
+      "longitude": "106.84513",
+      "index": 60,
+      "description": "Jakarta, Indonesia"
+    },
+    {
+      "country_code": "MY",
+      "city": "Kuala Lumpur",
+      "latitude": "3.1412",
+      "longitude": "101.68653",
+      "index": 61,
+      "description": "Kuala Lumpur, Malaysia"
+    },
+    {
+      "country_code": "PH",
+      "city": "Manila",
+      "latitude": "14.6042",
+      "longitude": "120.9822",
+      "index": 62,
+      "description": "Manila, Philippines"
+    },
+    {
+      "country_code": "IN",
+      "city": "Mumbai",
+      "latitude": "19.07283",
+      "longitude": "72.88261",
+      "index": 63,
+      "description": "Mumbai, India"
+    },
+    {
+      "country_code": "IN",
+      "city": "Delhi",
+      "latitude": "28.65381",
+      "longitude": "77.22897",
+      "index": 64,
+      "description": "Delhi, India"
+    },
+    {
+      "country_code": "JP",
+      "city": "Osaka-shi",
+      "latitude": "34.69374",
+      "longitude": "135.50218",
+      "index": 65,
+      "description": "Osaka, Japan"
+    },
+    {
+      "country_code": "KR",
+      "city": "Seoul",
+      "latitude": "37.566",
+      "longitude": "126.9784",
+      "index": 66,
+      "description": "Seoul, South Korea"
+    },
+    {
+      "country_code": "SG",
+      "city": "Singapore",
+      "latitude": "1.28967",
+      "longitude": "103.85007",
+      "index": 67,
+      "description": "Singapore"
+    },
+    {
+      "country_code": "TW",
+      "city": "Taipei",
+      "latitude": "25.04776",
+      "longitude": "121.53185",
+      "index": 68,
+      "description": "Taipei, Taiwan"
+    },
+    {
+      "country_code": "JP",
+      "city": "Tokyo",
+      "latitude": "35.6895",
+      "longitude": "139.69171",
+      "index": 69,
+      "description": "Tokyo, Japan"
+    },
+    {
+      "country_code": "AU",
+      "city": "Sydney",
+      "latitude": "-33.86785",
+      "longitude": "151.20732",
+      "index": 70,
+      "description": "Sydney, Australia"
+    },
+    {
+      "country_code": "AU",
+      "city": "Melbourne",
+      "latitude": "-37.814",
+      "longitude": "144.96332",
+      "index": 71,
+      "description": "Melbourne, Australia"
+    },
+    {
+      "country_code": "ZA",
+      "city": "Johannesburg",
+      "latitude": "-26.20227",
+      "longitude": "28.04363",
+      "index": 72,
+      "description": "Johannesburg, South Africa"
+    },
+    {
+      "country_code": "NG",
+      "city": "Lagos",
+      "latitude": "6.45407",
+      "longitude": "3.39467",
+      "index": 73,
+      "description": "Lagos, Nigeria"
+    },
+    {
+      "country_code": "KE",
+      "city": "Mombasa",
+      "latitude": "-4.05466",
+      "longitude": "39.66359",
+      "index": 74,
+      "description": "Mombasa, Kenya"
+    }
+  ],
+  "Cloudflare": [
+    {
+      "country_code": "GH",
+      "city": "Accra",
+      "latitude": "5.55602",
+      "longitude": "-0.1969",
+      "index": 0,
+      "description": "Accra, Ghana - (ACC)"
+    },
+    {
+      "country_code": "DZ",
+      "city": "Birkhadem",
+      "latitude": "36.71499",
+      "longitude": "3.05002",
+      "index": 1,
+      "description": "Algiers, Algeria - (ALG)"
+    },
+    {
+      "country_code": "DZ",
+      "city": "Annaba",
+      "latitude": "36.9",
+      "longitude": "7.76667",
+      "index": 2,
+      "description": "Annaba, Algeria - (AAE)"
+    },
+    {
+      "country_code": "MG",
+      "city": "Antananarivo",
+      "latitude": "-18.91368",
+      "longitude": "47.53613",
+      "index": 3,
+      "description": "Antananarivo, Madagascar - (TNR)"
+    },
+    {
+      "country_code": "ZA",
+      "city": "Cape Town",
+      "latitude": "-33.92584",
+      "longitude": "18.42322",
+      "index": 4,
+      "description": "Cape Town, South Africa - (CPT)"
+    },
+    {
+      "country_code": "SN",
+      "city": "Dakar",
+      "latitude": "14.6937",
+      "longitude": "-17.44406",
+      "index": 5,
+      "description": "Dakar, Senegal - (DKR)"
+    },
+    {
+      "country_code": "TZ",
+      "city": "Dar es Salaam",
+      "latitude": "-6.82349",
+      "longitude": "39.26951",
+      "index": 6,
+      "description": "Dar Es Salaam, Tanzania - (DAR)"
+    },
+    {
+      "country_code": "DJ",
+      "city": "Djibouti",
+      "latitude": "11.58901",
+      "longitude": "43.14503",
+      "index": 7,
+      "description": "Djibouti City, Djibouti - (JIB)"
+    },
+    {
+      "country_code": "ZA",
+      "city": "Durban",
+      "latitude": "-29.8579",
+      "longitude": "31.0292",
+      "index": 8,
+      "description": "Durban, South Africa - (DUR)"
+    },
+    {
+      "country_code": "BW",
+      "city": "Gaborone",
+      "latitude": "-24.65451",
+      "longitude": "25.90859",
+      "index": 9,
+      "description": "Gaborone, Botswana - (GBE)"
+    },
+    {
+      "country_code": "ZW",
+      "city": "Harare",
+      "latitude": "-17.82772",
+      "longitude": "31.05337",
+      "index": 10,
+      "description": "Harare, Zimbabwe - (HRE)"
+    },
+    {
+      "country_code": "ZA",
+      "city": "Johannesburg",
+      "latitude": "-26.20227",
+      "longitude": "28.04363",
+      "index": 11,
+      "description": "Johannesburg, South Africa - (JNB)"
+    },
+    {
+      "country_code": "RW",
+      "city": "Kigali",
+      "latitude": "-1.94995",
+      "longitude": "30.05885",
+      "index": 12,
+      "description": "Kigali, Rwanda - (KGL)"
+    },
+    {
+      "country_code": "NG",
+      "city": "Lagos",
+      "latitude": "6.45407",
+      "longitude": "3.39467",
+      "index": 13,
+      "description": "Lagos, Nigeria - (LOS)"
+    },
+    {
+      "country_code": "AO",
+      "city": "Luanda",
+      "latitude": "-8.83682",
+      "longitude": "13.23432",
+      "index": 14,
+      "description": "Luanda, Angola - (LAD)"
+    },
+    {
+      "country_code": "MZ",
+      "city": "Maputo",
+      "latitude": "-25.96553",
+      "longitude": "32.58322",
+      "index": 15,
+      "description": "Maputo, Mozambique - (MPM)"
+    },
+    {
+      "country_code": "KE",
+      "city": "Mombasa",
+      "latitude": "-4.05466",
+      "longitude": "39.66359",
+      "index": 16,
+      "description": "Mombasa, Kenya - (MBA)"
+    },
+    {
+      "country_code": "KE",
+      "city": "Nairobi",
+      "latitude": "-1.28333",
+      "longitude": "36.81667",
+      "index": 17,
+      "description": "Nairobi, Kenya - (NBO)"
+    },
+    {
+      "country_code": "DZ",
+      "city": "Oran",
+      "latitude": "35.69111",
+      "longitude": "-0.64167",
+      "index": 18,
+      "description": "Oran, Algeria - (ORN)"
+    },
+    {
+      "country_code": "BF",
+      "city": "Ouagadougou",
+      "latitude": "12.36566",
+      "longitude": "-1.53388",
+      "index": 19,
+      "description": "Ouagadougou, Burkina Faso   - (OUA)"
+    },
+    {
+      "country_code": "MU",
+      "city": "Port Louis",
+      "latitude": "-20.16194",
+      "longitude": "57.49889",
+      "index": 20,
+      "description": "Port Louis, Mauritius - (MRU)"
+    },
+    {
+      "country_code": "RE",
+      "city": "Salazie",
+      "latitude": "-21.02734",
+      "longitude": "55.539",
+      "index": 21,
+      "description": "Réunion, France - (RUN)"
+    },
+    {
+      "country_code": "TN",
+      "city": "Kebili",
+      "latitude": "33.70439",
+      "longitude": "8.96903",
+      "index": 22,
+      "description": "Tunis, Tunisia - (TUN)"
+    },
+    {
+      "country_code": "CD",
+      "city": "Kinshasa",
+      "latitude": "-4.32758",
+      "longitude": "15.31357",
+      "index": 23,
+      "description": "Kinshasa, DR Congo - (FIH)"
+    },
+    {
+      "country_code": "EG",
+      "city": "Cairo",
+      "latitude": "30.06263",
+      "longitude": "31.24967",
+      "index": 24,
+      "description": "Cairo, Egypt - (CAI)"
+    },
+    {
+      "country_code": "NA",
+      "city": "Windhoek",
+      "latitude": "-22.55941",
+      "longitude": "17.08323",
+      "index": 25,
+      "description": "Windhoek, Namibia - (WDH)"
+    },
+    {
+      "country_code": "CI",
+      "city": "Yamoussoukro",
+      "latitude": "6.82055",
+      "longitude": "-5.27674",
+      "index": 26,
+      "description": "Yamoussoukro, Ivory Coast - (ASK)"
+    },
+    {
+      "country_code": "CI",
+      "city": "Abidjan",
+      "latitude": "5.30966",
+      "longitude": "-4.01266",
+      "index": 27,
+      "description": "Abidjan, Ivory Coast - (ABJ)"
+    },
+    {
+      "country_code": "UG",
+      "city": "Kampala",
+      "latitude": "0.31628",
+      "longitude": "32.58219",
+      "index": 28,
+      "description": "Kampala, Uganda - (EBB)"
+    },
+    {
+      "country_code": "RU",
+      "city": "Saint Petersburg",
+      "latitude": "59.93863",
+      "longitude": "30.31413",
+      "index": 29,
+      "description": "Saint-Denis, Réunion - (RUN)"
+    },
+    {
+      "country_code": "DJ",
+      "city": "Dorra",
+      "latitude": "12.15028",
+      "longitude": "42.47624",
+      "index": 30,
+      "description": "Djibouti, Djibouti - (JIB)"
+    },
+    {
+      "country_code": "ZM",
+      "city": "Lusaka",
+      "latitude": "-15.40669",
+      "longitude": "28.28713",
+      "index": 31,
+      "description": "Lusaka, Zambia - (LUN)"
+    },
+    {
+      "country_code": "ET",
+      "city": "Addis Ababa",
+      "latitude": "9.02497",
+      "longitude": "38.74689",
+      "index": 32,
+      "description": "Addis Ababa, Ethiopia - (ADD)"
+    },
+    {
+      "country_code": "MW",
+      "city": "Lilongwe",
+      "latitude": "-13.96692",
+      "longitude": "33.78725",
+      "index": 33,
+      "description": "Lilongwe, Malawi - (LLW)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Ahmedabad",
+      "latitude": "23.02579",
+      "longitude": "72.58727",
+      "index": 34,
+      "description": "Ahmedabad, India - (AMD)"
+    },
+    {
+      "country_code": "KZ",
+      "city": "Almaty",
+      "latitude": "43.25654",
+      "longitude": "76.92848",
+      "index": 35,
+      "description": "Almaty, Kazakhstan - (ALA)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Bangalore",
+      "latitude": "12.97194",
+      "longitude": "77.59369",
+      "index": 36,
+      "description": "Bangalore, India - (BLR)"
+    },
+    {
+      "country_code": "TH",
+      "city": "Bangkok",
+      "latitude": "13.75398",
+      "longitude": "100.50144",
+      "index": 37,
+      "description": "Bangkok, Thailand - (BKK)"
+    },
+    {
+      "country_code": "BN",
+      "city": "Bandar Seri Begawan",
+      "latitude": "4.94029",
+      "longitude": "114.94806",
+      "index": 38,
+      "description": "Bandar Seri Begawan, Brunei - (BWN)"
+    },
+    {
+      "country_code": "PH",
+      "city": "Cebu City",
+      "latitude": "10.31672",
+      "longitude": "123.89071",
+      "index": 39,
+      "description": "Cebu, Philippines - (CEB)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Chandigarh",
+      "latitude": "30.73629",
+      "longitude": "76.7884",
+      "index": 40,
+      "description": "Chandigarh, India - (IXC)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Hucheng",
+      "latitude": "29.04162",
+      "longitude": "111.68606",
+      "index": 41,
+      "description": "Changde, China - (CGD)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Chennai",
+      "latitude": "13.08784",
+      "longitude": "80.27847",
+      "index": 42,
+      "description": "Chennai, India - (MAA)"
+    },
+    {
+      "country_code": "BD",
+      "city": "Chittagong",
+      "latitude": "22.3384",
+      "longitude": "91.83168",
+      "index": 43,
+      "description": "Chittagong, Bangladesh - (CGP)"
+    },
+    {
+      "country_code": "LK",
+      "city": "Colombo",
+      "latitude": "6.93194",
+      "longitude": "79.84778",
+      "index": 44,
+      "description": "Colombo, Sri Lanka - (CMB)"
+    },
+    {
+      "country_code": "BD",
+      "city": "Dhaka",
+      "latitude": "23.7104",
+      "longitude": "90.40744",
+      "index": 45,
+      "description": "Dhaka, Bangladesh - (DAC)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Foshan",
+      "latitude": "23.02677",
+      "longitude": "113.13148",
+      "index": 46,
+      "description": "Foshan, China - (FUO)"
+    },
+    {
+      "country_code": "JP",
+      "city": "Fukuoka-shi",
+      "latitude": "33.60639",
+      "longitude": "130.41806",
+      "index": 47,
+      "description": "Fukuoka, Japan - (FUK)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Fuzhou",
+      "latitude": "26.06139",
+      "longitude": "119.30611",
+      "index": 48,
+      "description": "Fuzhou, China - (FOC)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Guangzhou",
+      "latitude": "23.11667",
+      "longitude": "113.25",
+      "index": 49,
+      "description": "Guangzhou, China - (CAN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Haikou",
+      "latitude": "20.04583",
+      "longitude": "110.34167",
+      "index": 50,
+      "description": "Haikou, China - (HAK)"
+    },
+    {
+      "country_code": "VN",
+      "city": "Hanoi",
+      "latitude": "21.0245",
+      "longitude": "105.84117",
+      "index": 51,
+      "description": "Hanoi, Vietnam - (HAN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Hengshui",
+      "latitude": "37.73222",
+      "longitude": "115.70111",
+      "index": 52,
+      "description": "Hengshui, China - (SJW)"
+    },
+    {
+      "country_code": "VN",
+      "city": "Ho Chi Minh City",
+      "latitude": "10.82302",
+      "longitude": "106.62965",
+      "index": 53,
+      "description": "Ho Chi Minh City, Vietnam - (SGN)"
+    },
+    {
+      "country_code": "HK",
+      "city": "Wan Chai",
+      "latitude": "22.28142",
+      "longitude": "114.17258",
+      "index": 54,
+      "description": "Hong Kong - (HKG)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Hyderabad",
+      "latitude": "17.38405",
+      "longitude": "78.45636",
+      "index": 55,
+      "description": "Hyderabad, India - (HYD)"
+    },
+    {
+      "country_code": "PK",
+      "city": "Islamabad",
+      "latitude": "33.72148",
+      "longitude": "73.04329",
+      "index": 56,
+      "description": "Islamabad, Pakistan - (ISB)"
+    },
+    {
+      "country_code": "ID",
+      "city": "Jakarta",
+      "latitude": "-6.21462",
+      "longitude": "106.84513",
+      "index": 57,
+      "description": "Jakarta, Indonesia - (CGK)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Jinan",
+      "latitude": "36.66833",
+      "longitude": "116.99722",
+      "index": 58,
+      "description": "Jinan, China - (TNA)"
+    },
+    {
+      "country_code": "MY",
+      "city": "Johor Bahru",
+      "latitude": "1.4655",
+      "longitude": "103.7578",
+      "index": 59,
+      "description": "Johor Bahru, Malaysia - (JHB)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Kanpur",
+      "latitude": "26.4478",
+      "longitude": "80.34627",
+      "index": 60,
+      "description": "Kanpur, India - (KNU)"
+    },
+    {
+      "country_code": "TW",
+      "city": "Kaohsiung",
+      "latitude": "22.61626",
+      "longitude": "120.31333",
+      "index": 61,
+      "description": "Kaohsiung City, Taiwan - (KHH)"
+    },
+    {
+      "country_code": "PK",
+      "city": "Karachi",
+      "latitude": "24.9056",
+      "longitude": "67.0822",
+      "index": 62,
+      "description": "Karachi, Pakistan - (KHI)"
+    },
+    {
+      "country_code": "NP",
+      "city": "Kathmandu",
+      "latitude": "27.70169",
+      "longitude": "85.3206",
+      "index": 63,
+      "description": "Kathmandu, Nepal - (KTM)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Kolkata",
+      "latitude": "22.56263",
+      "longitude": "88.36304",
+      "index": 64,
+      "description": "Kolkata, India - (CCU)"
+    },
+    {
+      "country_code": "RU",
+      "city": "Krasnoyarsk",
+      "latitude": "56.01839",
+      "longitude": "92.86717",
+      "index": 65,
+      "description": "Krasnoyarsk, Russia - (KJA)"
+    },
+    {
+      "country_code": "MY",
+      "city": "Kuala Lumpur",
+      "latitude": "3.1412",
+      "longitude": "101.68653",
+      "index": 66,
+      "description": "Kuala Lumpur, Malaysia - (KUL)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Langfang",
+      "latitude": "39.50972",
+      "longitude": "116.69472",
+      "index": 67,
+      "description": "Langfang, China - (PKX)"
+    },
+    {
+      "country_code": "MO",
+      "city": "Macau",
+      "latitude": "22.20056",
+      "longitude": "113.54611",
+      "index": 68,
+      "description": "Macau - (MFM)"
+    },
+    {
+      "country_code": "MV",
+      "city": "Male",
+      "latitude": "4.1748",
+      "longitude": "73.50888",
+      "index": 69,
+      "description": "Malé, Maldives - (MLE)"
+    },
+    {
+      "country_code": "PH",
+      "city": "Manila",
+      "latitude": "14.6042",
+      "longitude": "120.9822",
+      "index": 70,
+      "description": "Manila, Philippines - (MNL)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Mumbai",
+      "latitude": "19.07283",
+      "longitude": "72.88261",
+      "index": 71,
+      "description": "Mumbai, India - (BOM)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Nagpur",
+      "latitude": "21.14631",
+      "longitude": "79.08491",
+      "index": 72,
+      "description": "Nagpur, India - (NAG)"
+    },
+    {
+      "country_code": "JP",
+      "city": "Naha-shi",
+      "latitude": "26.2125",
+      "longitude": "127.68111",
+      "index": 73,
+      "description": "Naha, Japan  - (OKA)"
+    },
+    {
+      "country_code": "IN",
+      "city": "New Delhi",
+      "latitude": "28.63576",
+      "longitude": "77.22445",
+      "index": 74,
+      "description": "New Delhi, India - (DEL)"
+    },
+    {
+      "country_code": "JP",
+      "city": "Osaka-shi",
+      "latitude": "34.69374",
+      "longitude": "135.50218",
+      "index": 75,
+      "description": "Osaka, Japan - (KIX)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Patna",
+      "latitude": "25.60222",
+      "longitude": "85.11936",
+      "index": 76,
+      "description": "Patna, India - (PAT)"
+    },
+    {
+      "country_code": "KH",
+      "city": "Phnom Penh",
+      "latitude": "11.56245",
+      "longitude": "104.91601",
+      "index": 77,
+      "description": "Phnom Penh, Cambodia - (PNH)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Qingdao",
+      "latitude": "36.06605",
+      "longitude": "120.36939",
+      "index": 78,
+      "description": "Qingdao, China - (TAO)"
+    },
+    {
+      "country_code": "KR",
+      "city": "Seoul",
+      "latitude": "37.566",
+      "longitude": "126.9784",
+      "index": 79,
+      "description": "Seoul, South Korea - (ICN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Shanghai",
+      "latitude": "31.22222",
+      "longitude": "121.45806",
+      "index": 80,
+      "description": "Shanghai, China - (SHA)"
+    },
+    {
+      "country_code": "SG",
+      "city": "Singapore",
+      "latitude": "1.28967",
+      "longitude": "103.85007",
+      "index": 81,
+      "description": "Singapore, Singapore - (SIN)"
+    },
+    {
+      "country_code": "TH",
+      "city": "Surat Thani",
+      "latitude": "9.14011",
+      "longitude": "99.33311",
+      "index": 82,
+      "description": "Surat Thani, Thailand - (URT)"
+    },
+    {
+      "country_code": "TW",
+      "city": "Taipei",
+      "latitude": "25.04776",
+      "longitude": "121.53185",
+      "index": 83,
+      "description": "Taipei - (TPE)"
+    },
+    {
+      "country_code": "JP",
+      "city": "Tokyo",
+      "latitude": "35.6895",
+      "longitude": "139.69171",
+      "index": 84,
+      "description": "Tokyo, Japan - (NRT)"
+    },
+    {
+      "country_code": "MN",
+      "city": "Ulaanbaatar",
+      "latitude": "47.90771",
+      "longitude": "106.88324",
+      "index": 85,
+      "description": "Ulaanbaatar, Mongolia - (ULN)"
+    },
+    {
+      "country_code": "LA",
+      "city": "Vientiane",
+      "latitude": "17.96667",
+      "longitude": "102.6",
+      "index": 86,
+      "description": "Vientiane, Laos - (VTE)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Xinyu",
+      "latitude": "27.80429",
+      "longitude": "114.93335",
+      "index": 87,
+      "description": "Xinyu, China - (KHN)"
+    },
+    {
+      "country_code": "AM",
+      "city": "Yerevan",
+      "latitude": "40.18111",
+      "longitude": "44.51361",
+      "index": 88,
+      "description": "Yerevan, Armenia - (EVN)"
+    },
+    {
+      "country_code": "ID",
+      "city": "Yogyakarta",
+      "latitude": "-7.78278",
+      "longitude": "110.36083",
+      "index": 89,
+      "description": "Yogyakarta, Indonesia - (JOG)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Zhongshan",
+      "latitude": "22.52306",
+      "longitude": "113.37912",
+      "index": 90,
+      "description": "Zhongshan, China - (ZGN)"
+    },
+    {
+      "country_code": "PH",
+      "city": "Cagayan de Oro",
+      "latitude": "8.48222",
+      "longitude": "124.64722",
+      "index": 91,
+      "description": "Cagayan de Oro, Philippines - (CGY)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Cochin",
+      "latitude": "9.93988",
+      "longitude": "76.26022",
+      "index": 92,
+      "description": "Kochi, India - (COK)"
+    },
+    {
+      "country_code": "ID",
+      "city": "Denpasar",
+      "latitude": "-8.65",
+      "longitude": "115.21667",
+      "index": 93,
+      "description": "Denpasar, Indonesia - (DPS)"
+    },
+    {
+      "country_code": "IN",
+      "city": "Cannanore",
+      "latitude": "11.86752",
+      "longitude": "75.35763",
+      "index": 94,
+      "description": "Kannur, India - (CNN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Shenzhen",
+      "latitude": "22.54554",
+      "longitude": "114.0683",
+      "index": 95,
+      "description": "Shenzhen, China - (SZX)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Guiyang",
+      "latitude": "26.58333",
+      "longitude": "106.71667",
+      "index": 96,
+      "description": "Guiyang, China - (KWE)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Shaoxing",
+      "latitude": "30.00237",
+      "longitude": "120.57864",
+      "index": 97,
+      "description": "Shaoxing, China - (HGH)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Changzhou",
+      "latitude": "31.77359",
+      "longitude": "119.95401",
+      "index": 98,
+      "description": "Changzhou, China - (CZX)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Kunming",
+      "latitude": "25.03889",
+      "longitude": "102.71833",
+      "index": 99,
+      "description": "Kunming, China - (KMG)"
+    },
+    {
+      "country_code": "TH",
+      "city": "Chiang Mai",
+      "latitude": "18.79038",
+      "longitude": "98.98468",
+      "index": 100,
+      "description": "Chiang Mai, Thailand - (CNX)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Zhengzhou",
+      "latitude": "34.75778",
+      "longitude": "113.64861",
+      "index": 101,
+      "description": "Zhengzhou, China - (CGO)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Yangquan",
+      "latitude": "37.8575",
+      "longitude": "113.56333",
+      "index": 102,
+      "description": "Yangquan, China - (TYN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Changsha",
+      "latitude": "28.19874",
+      "longitude": "112.97087",
+      "index": 103,
+      "description": "Changsha, China - (CSX)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Dalian",
+      "latitude": "38.91222",
+      "longitude": "121.60222",
+      "index": 104,
+      "description": "Dalian, China - (DLC)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Beihai",
+      "latitude": "21.48333",
+      "longitude": "109.1",
+      "index": 105,
+      "description": "Beihai, China - (BHY)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Chongqing",
+      "latitude": "29.56278",
+      "longitude": "106.55278",
+      "index": 106,
+      "description": "Chongqing, China - (CKG)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Xiangyang",
+      "latitude": "32.0422",
+      "longitude": "112.14479",
+      "index": 107,
+      "description": "Xiangyang, China - (XFN)"
+    },
+    {
+      "country_code": "VN",
+      "city": "Da Nang",
+      "latitude": "16.06778",
+      "longitude": "108.22083",
+      "index": 108,
+      "description": "Da Nang, Vietnam - (DAD)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Jiaxing",
+      "latitude": "30.7522",
+      "longitude": "120.75",
+      "index": 109,
+      "description": "Jiaxing, China - (JXG)"
+    },
+    {
+      "country_code": "PH",
+      "city": "Tarlac City",
+      "latitude": "15.48017",
+      "longitude": "120.59794",
+      "index": 110,
+      "description": "Tarlac City, Philippines - (CRK)"
+    },
+    {
+      "country_code": "BT",
+      "city": "Thimphu",
+      "latitude": "27.46609",
+      "longitude": "89.64191",
+      "index": 111,
+      "description": "Thimphu, Bhutan - (PBH)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Maying",
+      "latitude": "34.34154",
+      "longitude": "107.22893",
+      "index": 112,
+      "description": "Baoji, China - (XIY)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Chengdu",
+      "latitude": "30.66667",
+      "longitude": "104.06667",
+      "index": 113,
+      "description": "Chengdu, China - (CTU)"
+    },
+    {
+      "country_code": "KZ",
+      "city": "Astana",
+      "latitude": "51.1801",
+      "longitude": "71.44598",
+      "index": 114,
+      "description": "Astana, Kazakhstan - (NQZ)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Nanning",
+      "latitude": "22.81667",
+      "longitude": "108.31667",
+      "index": 115,
+      "description": "Nanning, China - (NNG)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Zibo",
+      "latitude": "36.79056",
+      "longitude": "118.06333",
+      "index": 116,
+      "description": "Zibo, China - (TNA)"
+    },
+    {
+      "country_code": "MY",
+      "city": "Kuching",
+      "latitude": "1.55",
+      "longitude": "110.33333",
+      "index": 117,
+      "description": "Kuching, Malaysia - (KCH)"
+    },
+    {
+      "country_code": "KZ",
+      "city": "Aqtobe",
+      "latitude": "50.27969",
+      "longitude": "57.20718",
+      "index": 118,
+      "description": "Aktobe, Kazakhstan - (AKX)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Jinjiang",
+      "latitude": "19.72878",
+      "longitude": "110.00851",
+      "index": 119,
+      "description": "Chengmai, China - (HAK)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Nanchang",
+      "latitude": "28.68333",
+      "longitude": "115.88333",
+      "index": 120,
+      "description": "Nanchang, China - (KHN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Tongren",
+      "latitude": "27.71722",
+      "longitude": "109.18528",
+      "index": 121,
+      "description": "Tongren, China - (TEN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Taizhou",
+      "latitude": "32.49069",
+      "longitude": "119.90812",
+      "index": 122,
+      "description": "Taizhou, China - (HYN)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Shijiazhuang",
+      "latitude": "38.04139",
+      "longitude": "114.47861",
+      "index": 123,
+      "description": "Shijiazhuang, China - (SJW)"
+    },
+    {
+      "country_code": "CN",
+      "city": "Xining",
+      "latitude": "36.62554",
+      "longitude": "101.75739",
+      "index": 124,
+      "description": "Xining, China - (XNN)"
+    },
+    {
+      "country_code": "KG",
+      "city": "Bishkek",
+      "latitude": "42.87",
+      "longitude": "74.59",
+      "index": 125,
+      "description": "Bishkek, Kyrgyzstan - (FRU)"
+    },
+    {
+      "country_code": "NL",
+      "city": "Amsterdam",
+      "latitude": "52.37403",
+      "longitude": "4.88969",
+      "index": 126,
+      "description": "Amsterdam, Netherlands - (AMS)"
+    },
+    {
+      "country_code": "GR",
+      "city": "Athens",
+      "latitude": "37.97945",
+      "longitude": "23.71622",
+      "index": 127,
+      "description": "Athens, Greece - (ATH)"
+    },
+    {
+      "country_code": "ES",
+      "city": "Barcelona",
+      "latitude": "41.38879",
+      "longitude": "2.15899",
+      "index": 128,
+      "description": "Barcelona, Spain - (BCN)"
+    },
+    {
+      "country_code": "RS",
+      "city": "Belgrade",
+      "latitude": "44.80401",
+      "longitude": "20.46513",
+      "index": 129,
+      "description": "Belgrade, Serbia - (BEG)"
+    },
+    {
+      "country_code": "DE",
+      "city": "Berlin",
+      "latitude": "52.52437",
+      "longitude": "13.41053",
+      "index": 130,
+      "description": "Berlin, Germany - (TXL)"
+    },
+    {
+      "country_code": "SK",
+      "city": "Bratislava",
+      "latitude": "48.14816",
+      "longitude": "17.10674",
+      "index": 131,
+      "description": "Bratislava, Slovakia   - (BTS)"
+    },
+    {
+      "country_code": "BE",
+      "city": "Brussels",
+      "latitude": "50.85045",
+      "longitude": "4.34878",
+      "index": 132,
+      "description": "Brussels, Belgium - (BRU)"
+    },
+    {
+      "country_code": "RO",
+      "city": "Bucharest",
+      "latitude": "44.43225",
+      "longitude": "26.10626",
+      "index": 133,
+      "description": "Bucharest, Romania - (OTP)"
+    },
+    {
+      "country_code": "HU",
+      "city": "Budapest",
+      "latitude": "47.49801",
+      "longitude": "19.03991",
+      "index": 134,
+      "description": "Budapest, Hungary - (BUD)"
+    },
+    {
+      "country_code": "MD",
+      "city": "Chisinau",
+      "latitude": "47.00556",
+      "longitude": "28.8575",
+      "index": 135,
+      "description": "Chișinău, Moldova - (KIV)"
+    },
+    {
+      "country_code": "DK",
+      "city": "Copenhagen",
+      "latitude": "55.67594",
+      "longitude": "12.56553",
+      "index": 136,
+      "description": "Copenhagen, Denmark - (CPH)"
+    },
+    {
+      "country_code": "IE",
+      "city": "Cork",
+      "latitude": "51.89797",
+      "longitude": "-8.47061",
+      "index": 137,
+      "description": "Cork, Ireland -  (ORK)"
+    },
+    {
+      "country_code": "IE",
+      "city": "Dublin",
+      "latitude": "53.33306",
+      "longitude": "-6.24889",
+      "index": 138,
+      "description": "Dublin, Ireland - (DUB)"
+    },
+    {
+      "country_code": "DE",
+      "city": "Dusseldorf",
+      "latitude": "51.22172",
+      "longitude": "6.77616",
+      "index": 139,
+      "description": "Düsseldorf, Germany - (DUS)"
+    },
+    {
+      "country_code": "GB",
+      "city": "Edinburgh",
+      "latitude": "55.95206",
+      "longitude": "-3.19648",
+      "index": 140,
+      "description": "Edinburgh, United Kingdom - (EDI)"
+    },
+    {
+      "country_code": "DE",
+      "city": "Frankfurt am Main",
+      "latitude": "50.11552",
+      "longitude": "8.68417",
+      "index": 141,
+      "description": "Frankfurt, Germany - (FRA)"
+    },
+    {
+      "country_code": "CH",
+      "city": "Geneve",
+      "latitude": "46.20222",
+      "longitude": "6.14569",
+      "index": 142,
+      "description": "Geneva, Switzerland - (GVA)"
+    },
+    {
+      "country_code": "SE",
+      "city": "Goeteborg",
+      "latitude": "57.70716",
+      "longitude": "11.96679",
+      "index": 143,
+      "description": "Gothenburg, Sweden - (GOT)"
+    },
+    {
+      "country_code": "DE",
+      "city": "Altstadt",
+      "latitude": "53.55",
+      "longitude": "10",
+      "index": 144,
+      "description": "Hamburg, Germany - (HAM)"
+    },
+    {
+      "country_code": "FI",
+      "city": "Helsinki",
+      "latitude": "60.16952",
+      "longitude": "24.93545",
+      "index": 145,
+      "description": "Helsinki, Finland - (HEL)"
+    },
+    {
+      "country_code": "TR",
+      "city": "Istanbul",
+      "latitude": "41.01384",
+      "longitude": "28.94966",
+      "index": 146,
+      "description": "Istanbul, Turkey - (IST)"
+    },
+    {
+      "country_code": "TR",
+      "city": "Izmir",
+      "latitude": "38.41273",
+      "longitude": "27.13838",
+      "index": 147,
+      "description": "Izmir, Turkey - (ADB)"
+    },
+    {
+      "country_code": "UA",
+      "city": "Kiev",
+      "latitude": "50.45466",
+      "longitude": "30.5238",
+      "index": 148,
+      "description": "Kyiv, Ukraine - (KBP)"
+    },
+    {
+      "country_code": "PT",
+      "city": "Lisbon",
+      "latitude": "38.71667",
+      "longitude": "-9.13333",
+      "index": 149,
+      "description": "Lisbon, Portugal - (LIS)"
+    },
+    {
+      "country_code": "GB",
+      "city": "London",
+      "latitude": "51.50853",
+      "longitude": "-0.12574",
+      "index": 150,
+      "description": "London, United Kingdom - (LHR)"
+    },
+    {
+      "country_code": "LU",
+      "city": "Luxembourg",
+      "latitude": "49.61167",
+      "longitude": "6.13",
+      "index": 151,
+      "description": "Luxembourg City, Luxembourg - (LUX)"
+    },
+    {
+      "country_code": "ES",
+      "city": "Madrid",
+      "latitude": "40.4165",
+      "longitude": "-3.70256",
+      "index": 152,
+      "description": "Madrid, Spain - (MAD)"
+    },
+    {
+      "country_code": "GB",
+      "city": "Fallowfield",
+      "latitude": "53.43981",
+      "longitude": "-2.21572",
+      "index": 153,
+      "description": "Manchester, United Kingdom - (MAN)"
+    },
+    {
+      "country_code": "FR",
+      "city": "Marseille",
+      "latitude": "43.29695",
+      "longitude": "5.38107",
+      "index": 154,
+      "description": "Marseille, France - (MRS)"
+    },
+    {
+      "country_code": "IT",
+      "city": "Milano",
+      "latitude": "45.46427",
+      "longitude": "9.18951",
+      "index": 155,
+      "description": "Milan, Italy - (MXP)"
+    },
+    {
+      "country_code": "BY",
+      "city": "Minsk",
+      "latitude": "53.9",
+      "longitude": "27.56667",
+      "index": 156,
+      "description": "Minsk, Belarus - (MSQ)"
+    },
+    {
+      "country_code": "RU",
+      "city": "Moscow",
+      "latitude": "55.75222",
+      "longitude": "37.61556",
+      "index": 157,
+      "description": "Moscow, Russia - (DME)"
+    },
+    {
+      "country_code": "DE",
+      "city": "Munich",
+      "latitude": "48.13743",
+      "longitude": "11.57549",
+      "index": 158,
+      "description": "Munich, Germany - (MUC)"
+    },
+    {
+      "country_code": "CY",
+      "city": "Nicosia",
+      "latitude": "35.17531",
+      "longitude": "33.3642",
+      "index": 159,
+      "description": "Nicosia, Cyprus - (LCA)"
+    },
+    {
+      "country_code": "NO",
+      "city": "Oslo",
+      "latitude": "59.91273",
+      "longitude": "10.74609",
+      "index": 160,
+      "description": "Oslo, Norway - (OSL)"
+    },
+    {
+      "country_code": "IT",
+      "city": "Palermo",
+      "latitude": "38.13205",
+      "longitude": "13.33561",
+      "index": 161,
+      "description": "Palermo, Italy - (PMO)"
+    },
+    {
+      "country_code": "FR",
+      "city": "Paris",
+      "latitude": "48.85341",
+      "longitude": "2.3488",
+      "index": 162,
+      "description": "Paris, France - (CDG)"
+    },
+    {
+      "country_code": "CZ",
+      "city": "Prague",
+      "latitude": "50.08804",
+      "longitude": "14.42076",
+      "index": 163,
+      "description": "Prague, Czech Republic - (PRG)"
+    },
+    {
+      "country_code": "IS",
+      "city": "Reykjavik",
+      "latitude": "64.13548",
+      "longitude": "-21.89541",
+      "index": 164,
+      "description": "Reykjavík, Iceland - (KEF)"
+    },
+    {
+      "country_code": "LV",
+      "city": "Riga",
+      "latitude": "56.946",
+      "longitude": "24.10589",
+      "index": 165,
+      "description": "Riga, Latvia - (RIX)"
+    },
+    {
+      "country_code": "IT",
+      "city": "Rome",
+      "latitude": "41.89193",
+      "longitude": "12.51133",
+      "index": 166,
+      "description": "Rome, Italy - (FCO)"
+    },
+    {
+      "country_code": "BG",
+      "city": "Sofia",
+      "latitude": "42.69751",
+      "longitude": "23.32415",
+      "index": 167,
+      "description": "Sofia, Bulgaria - (SOF)"
+    },
+    {
+      "country_code": "SE",
+      "city": "Stockholm",
+      "latitude": "59.33258",
+      "longitude": "18.0649",
+      "index": 168,
+      "description": "Stockholm, Sweden - (ARN)"
+    },
+    {
+      "country_code": "DE",
+      "city": "Stuttgart",
+      "latitude": "48.78232",
+      "longitude": "9.17702",
+      "index": 169,
+      "description": "Stuttgart, Germany   - (STR)"
+    },
+    {
+      "country_code": "EE",
+      "city": "Tallinn",
+      "latitude": "59.43696",
+      "longitude": "24.75353",
+      "index": 170,
+      "description": "Tallinn, Estonia - (TLL)"
+    },
+    {
+      "country_code": "GE",
+      "city": "Tbilisi",
+      "latitude": "41.69411",
+      "longitude": "44.83368",
+      "index": 171,
+      "description": "Tbilisi, Georgia - (TBS)"
+    },
+    {
+      "country_code": "GR",
+      "city": "Thessaloniki",
+      "latitude": "40.64361",
+      "longitude": "22.93086",
+      "index": 172,
+      "description": "Thessaloniki, Greece - (SKG)"
+    },
+    {
+      "country_code": "AL",
+      "city": "Tirana",
+      "latitude": "41.3275",
+      "longitude": "19.81889",
+      "index": 173,
+      "description": "Tirana, Albania - (TIA)"
+    },
+    {
+      "country_code": "AT",
+      "city": "Vienna",
+      "latitude": "48.20849",
+      "longitude": "16.37208",
+      "index": 174,
+      "description": "Vienna, Austria - (VIE)"
+    },
+    {
+      "country_code": "LT",
+      "city": "Vilnius",
+      "latitude": "54.68916",
+      "longitude": "25.2798",
+      "index": 175,
+      "description": "Vilnius, Lithuania - (VNO)"
+    },
+    {
+      "country_code": "PL",
+      "city": "Warsaw",
+      "latitude": "52.22977",
+      "longitude": "21.01178",
+      "index": 176,
+      "description": "Warsaw, Poland - (WAW)"
+    },
+    {
+      "country_code": "HR",
+      "city": "Zagreb",
+      "latitude": "45.81444",
+      "longitude": "15.97798",
+      "index": 177,
+      "description": "Zagreb, Croatia - (ZAG)"
+    },
+    {
+      "country_code": "CH",
+      "city": "Zurich",
+      "latitude": "47.36667",
+      "longitude": "8.55",
+      "index": 178,
+      "description": "Zürich, Switzerland - (ZRH)"
+    },
+    {
+      "country_code": "FR",
+      "city": "Lyon",
+      "latitude": "45.74846",
+      "longitude": "4.84671",
+      "index": 179,
+      "description": "Lyon, France - (LYS)"
+    },
+    {
+      "country_code": "FR",
+      "city": "Bordeaux",
+      "latitude": "44.84044",
+      "longitude": "-0.5805",
+      "index": 180,
+      "description": "Bordeaux, France - (BOD)"
+    },
+    {
+      "country_code": "MK",
+      "city": "Skopje",
+      "latitude": "41.99646",
+      "longitude": "21.43141",
+      "index": 181,
+      "description": "Skopje, North Macedonia - (SKP)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Americana",
+      "latitude": "-22.73917",
+      "longitude": "-47.33139",
+      "index": 182,
+      "description": "Americana, Brazil - (QWJ)"
+    },
+    {
+      "country_code": "CL",
+      "city": "Arica",
+      "latitude": "-18.4746",
+      "longitude": "-70.29792",
+      "index": 183,
+      "description": "Arica, Chile - (ARI)"
+    },
+    {
+      "country_code": "PY",
+      "city": "Asuncion",
+      "latitude": "-25.30066",
+      "longitude": "-57.63591",
+      "index": 184,
+      "description": "Asunción, Paraguay - (ASU)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Belem",
+      "latitude": "-1.45583",
+      "longitude": "-48.50444",
+      "index": 185,
+      "description": "Belém, Brazil - (BEL)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Belo Horizonte",
+      "latitude": "-19.92083",
+      "longitude": "-43.93778",
+      "index": 186,
+      "description": "Belo Horizonte, Brazil - (CNF)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Blumenau",
+      "latitude": "-26.91944",
+      "longitude": "-49.06611",
+      "index": 187,
+      "description": "Blumenau, Brazil - (BNU)"
+    },
+    {
+      "country_code": "CO",
+      "city": "Bogota",
+      "latitude": "4.60971",
+      "longitude": "-74.08175",
+      "index": 188,
+      "description": "Bogotá, Colombia - (BOG)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Alta Floresta",
+      "latitude": "-9.87556",
+      "longitude": "-56.08611",
+      "index": 189,
+      "description": "Brasilia, Brazil - (BSB)"
+    },
+    {
+      "country_code": "AR",
+      "city": "Buenos Aires",
+      "latitude": "-34.61315",
+      "longitude": "-58.37723",
+      "index": 190,
+      "description": "Buenos Aires, Argentina - (EZE)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Cacador",
+      "latitude": "-26.77528",
+      "longitude": "-51.015",
+      "index": 191,
+      "description": "Caçador, Brazil - (CFC)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Campinas",
+      "latitude": "-22.90556",
+      "longitude": "-47.06083",
+      "index": 192,
+      "description": "Campinas, Brazil - (VCP)"
+    },
+    {
+      "country_code": "AR",
+      "city": "Cordoba",
+      "latitude": "-31.4135",
+      "longitude": "-64.18105",
+      "index": 193,
+      "description": "Córdoba, Argentina - (COR)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Cuiaba",
+      "latitude": "-15.59611",
+      "longitude": "-56.09667",
+      "index": 194,
+      "description": "Cuiabá, Brazil - (CGB)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Curitiba",
+      "latitude": "-25.42778",
+      "longitude": "-49.27306",
+      "index": 195,
+      "description": "Curitiba, Brazil - (CWB)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Florianopolis",
+      "latitude": "-27.59667",
+      "longitude": "-48.54917",
+      "index": 196,
+      "description": "Florianopolis, Brazil - (FLN)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Fortaleza",
+      "latitude": "-3.71722",
+      "longitude": "-38.54306",
+      "index": 197,
+      "description": "Fortaleza, Brazil - (FOR)"
+    },
+    {
+      "country_code": "GY",
+      "city": "Georgetown",
+      "latitude": "6.80448",
+      "longitude": "-58.15527",
+      "index": 198,
+      "description": "Georgetown, Guyana - (GEO)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Goiania",
+      "latitude": "-16.67861",
+      "longitude": "-49.25389",
+      "index": 199,
+      "description": "Goiânia, Brazil - (GYN)"
+    },
+    {
+      "country_code": "GT",
+      "city": "Guatemala City",
+      "latitude": "14.64072",
+      "longitude": "-90.51327",
+      "index": 200,
+      "description": "Guatemala City, Guatemala - (GUA)"
+    },
+    {
+      "country_code": "EC",
+      "city": "Guayaquil",
+      "latitude": "-2.20584",
+      "longitude": "-79.90795",
+      "index": 201,
+      "description": "Guayaquil, Ecuador - (GYE)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Itajai",
+      "latitude": "-26.90778",
+      "longitude": "-48.66194",
+      "index": 202,
+      "description": "Itajaí, Brazil - (ITJ)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Joinville",
+      "latitude": "-26.30444",
+      "longitude": "-48.84556",
+      "index": 203,
+      "description": "Joinville, Brazil - (JOI)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Juazeiro do Norte",
+      "latitude": "-7.21306",
+      "longitude": "-39.31528",
+      "index": 204,
+      "description": "Juazeiro do Norte, Brazil - (JDO)"
+    },
+    {
+      "country_code": "PE",
+      "city": "Lima",
+      "latitude": "-12.04318",
+      "longitude": "-77.02824",
+      "index": 205,
+      "description": "Lima, Peru - (LIM)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Manaus",
+      "latitude": "-3.10194",
+      "longitude": "-60.025",
+      "index": 206,
+      "description": "Manaus, Brazil - (MAO)"
+    },
+    {
+      "country_code": "CO",
+      "city": "Medellin",
+      "latitude": "6.25184",
+      "longitude": "-75.56359",
+      "index": 207,
+      "description": "Medellín, Colombia - (MDE)"
+    },
+    {
+      "country_code": "AR",
+      "city": "Neuquen",
+      "latitude": "-38.95161",
+      "longitude": "-68.0591",
+      "index": 208,
+      "description": "Neuquén, Argentina - (NQN)"
+    },
+    {
+      "country_code": "PA",
+      "city": "Panama",
+      "latitude": "8.9936",
+      "longitude": "-79.51973",
+      "index": 209,
+      "description": "Panama City, Panama - (PTY)"
+    },
+    {
+      "country_code": "SR",
+      "city": "Paramaribo",
+      "latitude": "5.86638",
+      "longitude": "-55.16682",
+      "index": 210,
+      "description": "Paramaribo, Suriname - (PBM)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Porto Alegre",
+      "latitude": "-30.03306",
+      "longitude": "-51.23",
+      "index": 211,
+      "description": "Porto Alegre, Brazil - (POA)"
+    },
+    {
+      "country_code": "EC",
+      "city": "Quito",
+      "latitude": "-0.22985",
+      "longitude": "-78.52495",
+      "index": 212,
+      "description": "Quito, Ecuador - (UIO)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Recife",
+      "latitude": "-8.05389",
+      "longitude": "-34.88111",
+      "index": 213,
+      "description": "Recife, Brazil - (REC)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Ribeirao Preto",
+      "latitude": "-21.1775",
+      "longitude": "-47.81028",
+      "index": 214,
+      "description": "Ribeirao Preto, Brazil - (RAO)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Rio de Janeiro",
+      "latitude": "-22.90278",
+      "longitude": "-43.2075",
+      "index": 215,
+      "description": "Rio de Janeiro, Brazil - (GIG)"
+    },
+    {
+      "country_code": "CR",
+      "city": "San Jose",
+      "latitude": "9.93333",
+      "longitude": "-84.08333",
+      "index": 216,
+      "description": "San José, Costa Rica - (SJO)"
+    },
+    {
+      "country_code": "CL",
+      "city": "Santiago",
+      "latitude": "-33.45694",
+      "longitude": "-70.64827",
+      "index": 217,
+      "description": "Santiago, Chile - (SCL)"
+    },
+    {
+      "country_code": "DO",
+      "city": "Tireo Arriba",
+      "latitude": "18.93537",
+      "longitude": "-70.6885",
+      "index": 218,
+      "description": "Santo Domingo, Dominican Republic - (SDQ)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Sao Jose do Rio Preto",
+      "latitude": "-20.81972",
+      "longitude": "-49.37944",
+      "index": 219,
+      "description": "São José do Rio Preto, Brazil - (SJP)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Sao Jose dos Campos",
+      "latitude": "-23.17944",
+      "longitude": "-45.88694",
+      "index": 220,
+      "description": "São José dos Campos, Brazil - (SJK)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Sao Paulo",
+      "latitude": "-23.5475",
+      "longitude": "-46.63611",
+      "index": 221,
+      "description": "São Paulo, Brazil - (GRU)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Sorocaba",
+      "latitude": "-23.50167",
+      "longitude": "-47.45806",
+      "index": 222,
+      "description": "Sorocaba, Brazil - (SOD)"
+    },
+    {
+      "country_code": "HN",
+      "city": "Tegucigalpa",
+      "latitude": "14.0818",
+      "longitude": "-87.20681",
+      "index": 223,
+      "description": "Tegucigalpa, Honduras - (TGU)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Timbo",
+      "latitude": "-26.82333",
+      "longitude": "-49.27167",
+      "index": 224,
+      "description": "Timbó, Brazil - (NVT)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Uberlandia",
+      "latitude": "-18.91861",
+      "longitude": "-48.27722",
+      "index": 225,
+      "description": "Uberlândia, Brazil - (UDI)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Vitoria",
+      "latitude": "-20.31944",
+      "longitude": "-40.33778",
+      "index": 226,
+      "description": "Vitoria, Brazil - (VIX)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Campos",
+      "latitude": "-21.75227",
+      "longitude": "-41.33044",
+      "index": 227,
+      "description": "Campos dos Goytacazes, Brazil - (CAW)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Chapeco",
+      "latitude": "-27.09639",
+      "longitude": "-52.61833",
+      "index": 228,
+      "description": "Chapeco, Brazil - (XAP)"
+    },
+    {
+      "country_code": "BB",
+      "city": "Bridgetown",
+      "latitude": "13.1",
+      "longitude": "-59.61667",
+      "index": 229,
+      "description": "Bridgetown, Barbados - (BGI)"
+    },
+    {
+      "country_code": "GD",
+      "city": "Saint George's",
+      "latitude": "12.05644",
+      "longitude": "-61.74849",
+      "index": 230,
+      "description": "St. George's, Grenada - (GND)"
+    },
+    {
+      "country_code": "DO",
+      "city": "Santiago de los Caballeros",
+      "latitude": "19.4517",
+      "longitude": "-70.69703",
+      "index": 231,
+      "description": "Santiago de los Caballeros, Dominican Republic - (STI)"
+    },
+    {
+      "country_code": "BO",
+      "city": "La Paz",
+      "latitude": "-16.5",
+      "longitude": "-68.15",
+      "index": 232,
+      "description": "La Paz, Bolivia - (LPB)"
+    },
+    {
+      "country_code": "PR",
+      "city": "San Juan",
+      "latitude": "18.46633",
+      "longitude": "-66.10572",
+      "index": 233,
+      "description": "San Juan, Puerto Rico - (SJU)"
+    },
+    {
+      "country_code": "CO",
+      "city": "Barranquilla",
+      "latitude": "10.96854",
+      "longitude": "-74.78132",
+      "index": 234,
+      "description": "Barranquilla, Colombia - (BAQ)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Palmas",
+      "latitude": "-10.16745",
+      "longitude": "-48.32766",
+      "index": 235,
+      "description": "Palmas, Brazil - (PMW)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Aracatuba",
+      "latitude": "-21.20889",
+      "longitude": "-50.43278",
+      "index": 236,
+      "description": "Aracatuba, Brazil - (ARU)"
+    },
+    {
+      "country_code": "TT",
+      "city": "Port-of-Spain",
+      "latitude": "10.66668",
+      "longitude": "-61.51889",
+      "index": 237,
+      "description": "Port of Spain, Trinidad and Tobago - (POS)"
+    },
+    {
+      "country_code": "BR",
+      "city": "Salvador",
+      "latitude": "-12.97111",
+      "longitude": "-38.51083",
+      "index": 238,
+      "description": "Salvador, Brazil - (SSA)"
+    },
+    {
+      "country_code": "CO",
+      "city": "Cali",
+      "latitude": "3.43722",
+      "longitude": "-76.5225",
+      "index": 239,
+      "description": "Cali, Colombia - (CLO)"
+    },
+    {
+      "country_code": "HN",
+      "city": "San Pedro Sula",
+      "latitude": "15.50417",
+      "longitude": "-88.025",
+      "index": 240,
+      "description": "San Pedro Sula, Honduras - (SAP)"
+    },
+    {
+      "country_code": "CL",
+      "city": "Concepcion",
+      "latitude": "-36.82699",
+      "longitude": "-73.04977",
+      "index": 241,
+      "description": "Concepción, Chile - (CCP)"
+    },
+    {
+      "country_code": "JO",
+      "city": "Amman",
+      "latitude": "31.95522",
+      "longitude": "35.94503",
+      "index": 242,
+      "description": "Amman, Jordan - (AMM)"
+    },
+    {
+      "country_code": "AZ",
+      "city": "Astara",
+      "latitude": "38.45598",
+      "longitude": "48.87498",
+      "index": 243,
+      "description": "Astara, Azerbaijan - (LLK)"
+    },
+    {
+      "country_code": "IQ",
+      "city": "Baghdad",
+      "latitude": "33.34058",
+      "longitude": "44.40088",
+      "index": 244,
+      "description": "Baghdad, Iraq - (BGW)"
+    },
+    {
+      "country_code": "AZ",
+      "city": "Baku",
+      "latitude": "40.37767",
+      "longitude": "49.89201",
+      "index": 245,
+      "description": "Baku, Azerbaijan - (GYD)"
+    },
+    {
+      "country_code": "IQ",
+      "city": "Al Basrah",
+      "latitude": "30.53302",
+      "longitude": "47.79747",
+      "index": 246,
+      "description": "Basra, Iraq - (BSR)"
+    },
+    {
+      "country_code": "LB",
+      "city": "Beirut",
+      "latitude": "33.88894",
+      "longitude": "35.49442",
+      "index": 247,
+      "description": "Beirut, Lebanon - (BEY)"
+    },
+    {
+      "country_code": "SA",
+      "city": "Dammam",
+      "latitude": "26.43442",
+      "longitude": "50.10326",
+      "index": 248,
+      "description": "Dammam, Saudi Arabia - (DMM)"
+    },
+    {
+      "country_code": "QA",
+      "city": "Doha",
+      "latitude": "25.27932",
+      "longitude": "51.52245",
+      "index": 249,
+      "description": "Doha, Qatar - (DOH)"
+    },
+    {
+      "country_code": "AE",
+      "city": "Dubai",
+      "latitude": "25.0657",
+      "longitude": "55.17128",
+      "index": 250,
+      "description": "Dubai, United Arab Emirates - (DXB)"
+    },
+    {
+      "country_code": "IQ",
+      "city": "Erbil",
+      "latitude": "36.19257",
+      "longitude": "44.01062",
+      "index": 251,
+      "description": "Erbil, Iraq - (EBL)"
+    },
+    {
+      "country_code": "IL",
+      "city": "Haifa",
+      "latitude": "32.81841",
+      "longitude": "34.9885",
+      "index": 252,
+      "description": "Haifa, Israel - (HFA)"
+    },
+    {
+      "country_code": "SA",
+      "city": "Jeddah",
+      "latitude": "21.54238",
+      "longitude": "39.19797",
+      "index": 253,
+      "description": "Jeddah, Saudi Arabia - (JED)"
+    },
+    {
+      "country_code": "KW",
+      "city": "Kuwait City",
+      "latitude": "29.36972",
+      "longitude": "47.97833",
+      "index": 254,
+      "description": "Kuwait City, Kuwait - (KWI)"
+    },
+    {
+      "country_code": "BH",
+      "city": "Manama",
+      "latitude": "26.21536",
+      "longitude": "50.5832",
+      "index": 255,
+      "description": "Manama, Bahrain - (BAH)"
+    },
+    {
+      "country_code": "OM",
+      "city": "Hayma'",
+      "latitude": "19.95931",
+      "longitude": "56.27575",
+      "index": 256,
+      "description": "Muscat, Oman - (MCT)"
+    },
+    {
+      "country_code": "IQ",
+      "city": "An Najaf",
+      "latitude": "32.02594",
+      "longitude": "44.34625",
+      "index": 257,
+      "description": "Najaf, Iraq - (NJF)"
+    },
+    {
+      "country_code": "IQ",
+      "city": "An Nasiriyah",
+      "latitude": "31.05799",
+      "longitude": "46.25726",
+      "index": 258,
+      "description": "Nasiriyah, Iraq - (XNH)"
+    },
+    {
+      "country_code": "PS",
+      "city": "Ramallah",
+      "latitude": "31.89964",
+      "longitude": "35.20422",
+      "index": 259,
+      "description": "Ramallah - (ZDM)"
+    },
+    {
+      "country_code": "SA",
+      "city": "Riyadh",
+      "latitude": "24.68773",
+      "longitude": "46.72185",
+      "index": 260,
+      "description": "Riyadh, Saudi Arabia - (RUH)"
+    },
+    {
+      "country_code": "IQ",
+      "city": "As Sulaymaniyah",
+      "latitude": "35.56496",
+      "longitude": "45.4329",
+      "index": 261,
+      "description": "Sulaymaniyah, Iraq - (ISU)"
+    },
+    {
+      "country_code": "IL",
+      "city": "Tel Aviv",
+      "latitude": "32.08088",
+      "longitude": "34.78057",
+      "index": 262,
+      "description": "Tel Aviv, Israel - (TLV)"
+    },
+    {
+      "country_code": "US",
+      "city": "Ashburn",
+      "latitude": "39.04372",
+      "longitude": "-77.48749",
+      "index": 263,
+      "description": "Ashburn, VA, United States - (IAD)"
+    },
+    {
+      "country_code": "US",
+      "city": "Atlanta",
+      "latitude": "33.749",
+      "longitude": "-84.38798",
+      "index": 264,
+      "description": "Atlanta, GA, United States - (ATL)"
+    },
+    {
+      "country_code": "US",
+      "city": "Boston",
+      "latitude": "42.35843",
+      "longitude": "-71.05977",
+      "index": 265,
+      "description": "Boston, MA, United States - (BOS)"
+    },
+    {
+      "country_code": "US",
+      "city": "Buffalo",
+      "latitude": "42.88645",
+      "longitude": "-78.87837",
+      "index": 266,
+      "description": "Buffalo, NY, United States - (BUF)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Calgary",
+      "latitude": "51.05011",
+      "longitude": "-114.08529",
+      "index": 267,
+      "description": "Calgary, AB, Canada - (YYC)"
+    },
+    {
+      "country_code": "US",
+      "city": "Charlotte",
+      "latitude": "35.22709",
+      "longitude": "-80.84313",
+      "index": 268,
+      "description": "Charlotte, NC, United States - (CLT)"
+    },
+    {
+      "country_code": "US",
+      "city": "Chicago",
+      "latitude": "41.85003",
+      "longitude": "-87.65005",
+      "index": 269,
+      "description": "Chicago, IL, United States - (ORD)"
+    },
+    {
+      "country_code": "US",
+      "city": "Columbus",
+      "latitude": "39.96118",
+      "longitude": "-82.99879",
+      "index": 270,
+      "description": "Columbus, OH, United States - (CMH)"
+    },
+    {
+      "country_code": "US",
+      "city": "Dallas",
+      "latitude": "32.78306",
+      "longitude": "-96.80667",
+      "index": 271,
+      "description": "Dallas, TX, United States - (DFW)"
+    },
+    {
+      "country_code": "US",
+      "city": "Denver",
+      "latitude": "39.73915",
+      "longitude": "-104.9847",
+      "index": 272,
+      "description": "Denver, CO, United States - (DEN)"
+    },
+    {
+      "country_code": "US",
+      "city": "Detroit",
+      "latitude": "42.33143",
+      "longitude": "-83.04575",
+      "index": 273,
+      "description": "Detroit, MI, United States - (DTW)"
+    },
+    {
+      "country_code": "US",
+      "city": "Honolulu",
+      "latitude": "21.30694",
+      "longitude": "-157.85833",
+      "index": 274,
+      "description": "Honolulu, HI, United States - (HNL)"
+    },
+    {
+      "country_code": "US",
+      "city": "Houston",
+      "latitude": "29.76328",
+      "longitude": "-95.36327",
+      "index": 275,
+      "description": "Houston, TX, United States - (IAH)"
+    },
+    {
+      "country_code": "US",
+      "city": "Indianapolis",
+      "latitude": "39.76838",
+      "longitude": "-86.15804",
+      "index": 276,
+      "description": "Indianapolis, IN, United States - (IND)"
+    },
+    {
+      "country_code": "US",
+      "city": "Bellair-Meadowbrook Terrace",
+      "latitude": "30.17881",
+      "longitude": "-81.74341",
+      "index": 277,
+      "description": "Jacksonville, FL, United States - (JAX)"
+    },
+    {
+      "country_code": "US",
+      "city": "Kansas City",
+      "latitude": "39.09973",
+      "longitude": "-94.57857",
+      "index": 278,
+      "description": "Kansas City, MO, United States - (MCI)"
+    },
+    {
+      "country_code": "US",
+      "city": "Las Vegas",
+      "latitude": "36.17497",
+      "longitude": "-115.13722",
+      "index": 279,
+      "description": "Las Vegas, NV, United States - (LAS)"
+    },
+    {
+      "country_code": "US",
+      "city": "Los Angeles",
+      "latitude": "34.05223",
+      "longitude": "-118.24368",
+      "index": 280,
+      "description": "Los Angeles, CA, United States - (LAX)"
+    },
+    {
+      "country_code": "US",
+      "city": "Olive Branch",
+      "latitude": "34.96176",
+      "longitude": "-89.82953",
+      "index": 281,
+      "description": "Memphis, TN, United States - (MEM)"
+    },
+    {
+      "country_code": "MX",
+      "city": "Mexico City",
+      "latitude": "19.42847",
+      "longitude": "-99.12766",
+      "index": 282,
+      "description": "Mexico City, Mexico - (MEX)"
+    },
+    {
+      "country_code": "US",
+      "city": "Miami",
+      "latitude": "25.77427",
+      "longitude": "-80.19366",
+      "index": 283,
+      "description": "Miami, FL, United States - (MIA)"
+    },
+    {
+      "country_code": "US",
+      "city": "Minneapolis",
+      "latitude": "44.97997",
+      "longitude": "-93.26384",
+      "index": 284,
+      "description": "Minneapolis, MN, United States - (MSP)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Montreal",
+      "latitude": "45.50884",
+      "longitude": "-73.58781",
+      "index": 285,
+      "description": "Montréal, QC, Canada - (YUL)"
+    },
+    {
+      "country_code": "US",
+      "city": "Nashville",
+      "latitude": "36.16589",
+      "longitude": "-86.78444",
+      "index": 286,
+      "description": "Nashville, United States - (BNA)"
+    },
+    {
+      "country_code": "US",
+      "city": "Newark",
+      "latitude": "39.68372",
+      "longitude": "-75.74966",
+      "index": 287,
+      "description": "Newark, NJ, United States - (EWR)"
+    },
+    {
+      "country_code": "US",
+      "city": "Norfolk",
+      "latitude": "36.84681",
+      "longitude": "-76.28522",
+      "index": 288,
+      "description": "Norfolk, VA, United States - (ORF)"
+    },
+    {
+      "country_code": "US",
+      "city": "Omaha",
+      "latitude": "41.25861",
+      "longitude": "-95.93779",
+      "index": 289,
+      "description": "Omaha, NE, United States - (OMA)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Ottawa",
+      "latitude": "45.41117",
+      "longitude": "-75.69812",
+      "index": 290,
+      "description": "Ottawa, Canada - (YOW)"
+    },
+    {
+      "country_code": "US",
+      "city": "Philadelphia",
+      "latitude": "39.95233",
+      "longitude": "-75.16379",
+      "index": 291,
+      "description": "Philadelphia, United States - (PHL)"
+    },
+    {
+      "country_code": "US",
+      "city": "Phoenix",
+      "latitude": "33.44838",
+      "longitude": "-112.07404",
+      "index": 292,
+      "description": "Phoenix, AZ, United States - (PHX)"
+    },
+    {
+      "country_code": "US",
+      "city": "Pittsburgh",
+      "latitude": "40.44062",
+      "longitude": "-79.99589",
+      "index": 293,
+      "description": "Pittsburgh, PA, United States - (PIT)"
+    },
+    {
+      "country_code": "US",
+      "city": "Portland",
+      "latitude": "45.52345",
+      "longitude": "-122.67621",
+      "index": 294,
+      "description": "Portland, OR, United States - (PDX)"
+    },
+    {
+      "country_code": "MX",
+      "city": "Santiago de Queretaro",
+      "latitude": "20.58806",
+      "longitude": "-100.38806",
+      "index": 295,
+      "description": "Queretaro, MX, Mexico - (QRO)"
+    },
+    {
+      "country_code": "US",
+      "city": "Richmond",
+      "latitude": "37.55376",
+      "longitude": "-77.46026",
+      "index": 296,
+      "description": "Richmond, VA, United States - (RIC)"
+    },
+    {
+      "country_code": "US",
+      "city": "Sacramento",
+      "latitude": "38.58157",
+      "longitude": "-121.4944",
+      "index": 297,
+      "description": "Sacramento, CA, United States - (SMF)"
+    },
+    {
+      "country_code": "US",
+      "city": "Salt Lake City",
+      "latitude": "40.76078",
+      "longitude": "-111.89105",
+      "index": 298,
+      "description": "Salt Lake City, UT, United States - (SLC)"
+    },
+    {
+      "country_code": "US",
+      "city": "San Diego",
+      "latitude": "32.71533",
+      "longitude": "-117.15726",
+      "index": 299,
+      "description": "San Diego, CA, United States - (SAN)"
+    },
+    {
+      "country_code": "US",
+      "city": "San Jose",
+      "latitude": "37.33939",
+      "longitude": "-121.89496",
+      "index": 300,
+      "description": "San Jose, CA, United States - (SJC)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Saskatoon",
+      "latitude": "52.11679",
+      "longitude": "-106.63452",
+      "index": 301,
+      "description": "Saskatoon, SK, Canada - (YXE)"
+    },
+    {
+      "country_code": "US",
+      "city": "Seattle",
+      "latitude": "47.60621",
+      "longitude": "-122.33207",
+      "index": 302,
+      "description": "Seattle, WA, United States - (SEA)"
+    },
+    {
+      "country_code": "US",
+      "city": "Sioux Falls",
+      "latitude": "43.54997",
+      "longitude": "-96.70033",
+      "index": 303,
+      "description": "Sioux Falls, South Dakota - (FSD)"
+    },
+    {
+      "country_code": "US",
+      "city": "St. Louis",
+      "latitude": "38.62727",
+      "longitude": "-90.19789",
+      "index": 304,
+      "description": "St. Louis, MO, United States - (STL)"
+    },
+    {
+      "country_code": "US",
+      "city": "Tallahassee",
+      "latitude": "30.43826",
+      "longitude": "-84.28073",
+      "index": 305,
+      "description": "Tallahassee, FL, United States - (TLH)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Toronto",
+      "latitude": "43.70011",
+      "longitude": "-79.4163",
+      "index": 306,
+      "description": "Toronto, ON, Canada - (YYZ)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Vancouver",
+      "latitude": "49.24966",
+      "longitude": "-123.11934",
+      "index": 307,
+      "description": "Vancouver, BC, Canada - (YVR)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Winnipeg",
+      "latitude": "49.8844",
+      "longitude": "-97.14704",
+      "index": 308,
+      "description": "Winnipeg, MB, Canada - (YWG)"
+    },
+    {
+      "country_code": "US",
+      "city": "San Francisco",
+      "latitude": "37.77493",
+      "longitude": "-122.41942",
+      "index": 309,
+      "description": "San Francisco, United States - (SFO)"
+    },
+    {
+      "country_code": "JM",
+      "city": "Kingston",
+      "latitude": "17.99702",
+      "longitude": "-76.79358",
+      "index": 310,
+      "description": "Kingston, Jamaica - (KIN)"
+    },
+    {
+      "country_code": "US",
+      "city": "Bangor",
+      "latitude": "44.80118",
+      "longitude": "-68.77781",
+      "index": 311,
+      "description": "Bangor, United States - (BGR)"
+    },
+    {
+      "country_code": "US",
+      "city": "Austin",
+      "latitude": "30.26715",
+      "longitude": "-97.74306",
+      "index": 312,
+      "description": "Austin, United States - (AUS)"
+    },
+    {
+      "country_code": "US",
+      "city": "Albuquerque",
+      "latitude": "35.08449",
+      "longitude": "-106.65114",
+      "index": 313,
+      "description": "Albuquerque, United States - (ABQ)"
+    },
+    {
+      "country_code": "MX",
+      "city": "Guadalajara",
+      "latitude": "20.66682",
+      "longitude": "-103.39182",
+      "index": 314,
+      "description": "Guadalajara, Mexico - (GDL)"
+    },
+    {
+      "country_code": "US",
+      "city": "San Antonio",
+      "latitude": "29.42412",
+      "longitude": "-98.49363",
+      "index": 315,
+      "description": "San Antonio, United States - (SAT)"
+    },
+    {
+      "country_code": "US",
+      "city": "Cleveland",
+      "latitude": "41.4995",
+      "longitude": "-81.69541",
+      "index": 316,
+      "description": "Cleveland, United States - (CLE)"
+    },
+    {
+      "country_code": "US",
+      "city": "Durham",
+      "latitude": "35.99403",
+      "longitude": "-78.89862",
+      "index": 317,
+      "description": "Durham, United States - (RDU)"
+    },
+    {
+      "country_code": "US",
+      "city": "Oklahoma City",
+      "latitude": "35.46756",
+      "longitude": "-97.51643",
+      "index": 318,
+      "description": "Oklahoma City, United States - (OKC)"
+    },
+    {
+      "country_code": "US",
+      "city": "Tampa",
+      "latitude": "27.94752",
+      "longitude": "-82.45843",
+      "index": 319,
+      "description": "Tampa, United States - (TPA)"
+    },
+    {
+      "country_code": "US",
+      "city": "Anchorage",
+      "latitude": "61.21806",
+      "longitude": "-149.90028",
+      "index": 320,
+      "description": "Anchorage, United States - (ANC)"
+    },
+    {
+      "country_code": "CA",
+      "city": "Halifax",
+      "latitude": "44.64533",
+      "longitude": "-63.57239",
+      "index": 321,
+      "description": "Halifax, Canada - (YHZ)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Adelaide",
+      "latitude": "-34.92866",
+      "longitude": "138.59863",
+      "index": 322,
+      "description": "Adelaide, SA, Australia - (ADL)"
+    },
+    {
+      "country_code": "NZ",
+      "city": "Manukau City",
+      "latitude": "-36.99282",
+      "longitude": "174.87986",
+      "index": 323,
+      "description": "Auckland, New Zealand - (AKL)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Brisbane",
+      "latitude": "-27.46794",
+      "longitude": "153.02809",
+      "index": 324,
+      "description": "Brisbane, QLD, Australia - (BNE)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Canberra",
+      "latitude": "-35.28346",
+      "longitude": "149.12807",
+      "index": 325,
+      "description": "Canberra, ACT, Australia - (CBR)"
+    },
+    {
+      "country_code": "NZ",
+      "city": "Christchurch",
+      "latitude": "-43.53333",
+      "longitude": "172.63333",
+      "index": 326,
+      "description": "Christchurch, New Zealand - (CHC)"
+    },
+    {
+      "country_code": "GU",
+      "city": "Hagatna",
+      "latitude": "13.47567",
+      "longitude": "144.74886",
+      "index": 327,
+      "description": "Hagatna, Guam - (GUM)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Melbourne",
+      "latitude": "-37.814",
+      "longitude": "144.96332",
+      "index": 328,
+      "description": "Melbourne, VIC, Australia - (MEL)"
+    },
+    {
+      "country_code": "NC",
+      "city": "Noumea",
+      "latitude": "-22.27631",
+      "longitude": "166.4572",
+      "index": 329,
+      "description": "Noumea, New Caledonia - (NOU)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Perth",
+      "latitude": "-31.95224",
+      "longitude": "115.8614",
+      "index": 330,
+      "description": "Perth, WA, Australia - (PER)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Sydney",
+      "latitude": "-33.86785",
+      "longitude": "151.20732",
+      "index": 331,
+      "description": "Sydney, NSW, Australia - (SYD)"
+    },
+    {
+      "country_code": "PF",
+      "city": "Otutara",
+      "latitude": "-17.76667",
+      "longitude": "-149.41667",
+      "index": 332,
+      "description": "Tahiti, French Polynesia - (PPT)"
+    },
+    {
+      "country_code": "FJ",
+      "city": "Suva",
+      "latitude": "-18.14161",
+      "longitude": "178.44149",
+      "index": 333,
+      "description": "Suva, Fiji - (SUV)"
+    },
+    {
+      "country_code": "AU",
+      "city": "Hobart",
+      "latitude": "-42.87936",
+      "longitude": "147.32941",
+      "index": 334,
+      "description": "Hobart, Australia - (HBA)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.vscode
+.conda
+__pycache__
+*.pyc
+*.gz
+*.log
+test.*
+*/output
+**/downloaded
+**/test
+**/tmp
