@@ -740,7 +740,7 @@
     "hint": "",
     "url": "http://hkd.lg.mlnl.host",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -924,7 +924,7 @@
     "hint": "",
     "url": "http://154.198.215.75:3128",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -2308,7 +2308,7 @@
     "hint": "",
     "url": "http://hkg-cdia.totyun.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -4000,7 +4000,7 @@
     "hint": "",
     "url": "https://lg-hk.ihuaweicloud.cn",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -4300,7 +4300,7 @@
     "hint": "",
     "url": "https://103.159.88.9",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Taipei",
       "latitude": "25.04776",
       "longitude": "121.53185"
@@ -5352,7 +5352,7 @@
     "hint": "",
     "url": "http://lg-hk-g-antiddos.nimbus.com.tw",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -5496,7 +5496,7 @@
     "hint": "",
     "url": "http://lg-tw-g-antiddos.nimbus.com.tw",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Taipei",
       "latitude": "25.04776",
       "longitude": "121.53185"
@@ -5668,7 +5668,7 @@
     "hint": "",
     "url": "http://hkg-cia.totyun.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -6672,7 +6672,7 @@
     "hint": "",
     "url": "https://hknt.lg.juhost.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -7984,7 +7984,7 @@
     "hint": "",
     "url": "http://tw-test.softshellhosting.com",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Taipei",
       "latitude": "25.04776",
       "longitude": "121.53185"
@@ -8300,7 +8300,7 @@
     "hint": "",
     "url": "http://dmit-hkg-lite.gubo.org/LookingGlass",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -9676,7 +9676,7 @@
     "hint": "",
     "url": "http://103.61.139.9",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Puli",
       "latitude": "23.96639",
       "longitude": "120.96952"
@@ -10092,7 +10092,7 @@
     "hint": "",
     "url": "http://hkg-gia.totyun.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -11920,7 +11920,7 @@
     "hint": "",
     "url": "http://hkgia.myctgs.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -13152,7 +13152,7 @@
     "hint": "",
     "url": "http://hkcia.myctgs.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -14544,7 +14544,7 @@
     "hint": "",
     "url": "http://w136.gubo.org/LookingGlass/en.php",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -14636,7 +14636,7 @@
     "hint": "",
     "url": "https://lg-hk-g.nimbus.com.tw",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -15136,7 +15136,7 @@
     "hint": "",
     "url": "https://lg.netfront.net/looking_glass",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -17756,7 +17756,7 @@
     "hint": "",
     "url": "https://lg-hk-cnd.nimbus.com.tw",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -18508,7 +18508,7 @@
     "hint": "",
     "url": "http://khcia.myctgs.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -19064,7 +19064,7 @@
     "hint": "",
     "url": "https://lg-hk-cndp.nimbus.com.tw",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -20851,7 +20851,7 @@
     "hint": "",
     "url": "https://103.125.232.232",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -21707,7 +21707,7 @@
     "hint": "",
     "url": "http://43.228.216.28",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Puli",
       "latitude": "23.96639",
       "longitude": "120.96952"
@@ -21747,7 +21747,7 @@
     "hint": "",
     "url": "https://hk03.layerstack.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -22311,7 +22311,7 @@
     "hint": "",
     "url": "http://speedtest.c1.hkg1.dediserve.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -22703,7 +22703,7 @@
     "hint": "",
     "url": "https://lg.cn-hongkong-intl.claw.cloud",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -23763,7 +23763,7 @@
     "hint": "",
     "url": "https://trans.ittms.com.tw",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Taipei",
       "latitude": "25.04776",
       "longitude": "121.53185"
@@ -24707,7 +24707,7 @@
     "hint": "",
     "url": "http://lg.hkbgp.onetech.cloud",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -28650,7 +28650,7 @@
     "hint": "TW, Taipei",
     "url": "http://144.208.215.21:8000",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Taipei",
       "latitude": "25.04776",
       "longitude": "121.53185"
@@ -29664,7 +29664,7 @@
     "hint": "Frankfurt Equinix FR5 Kleyerstr.90",
     "url": "https://probe-networks.de/lg/?protocol=IPv6&query=bgp&query=trace&query=ping",
     "location": {
-      "country_code": "TW",
+      "country_code": "CN",
       "city": "Taipei",
       "latitude": "25.04776",
       "longitude": "121.53185"
@@ -35029,7 +35029,7 @@
     "hint": "",
     "url": "https://hk1.newmediaexpress.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -35345,7 +35345,7 @@
     "hint": "",
     "url": "http://hkg-cia.totyun.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -35641,7 +35641,7 @@
     "hint": "",
     "url": "http://hk.cmc.dog",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -36061,7 +36061,7 @@
     "hint": "",
     "url": "https://45.124.64.3",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -36365,7 +36365,7 @@
     "hint": "",
     "url": "http://w115.gubo.org/LookingGlass",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -37217,7 +37217,7 @@
     "hint": "",
     "url": "https://hk.lg.mlnl.host",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -40544,7 +40544,7 @@
     "hint": "",
     "url": "https://hk.lg.62yun.ru",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -41904,7 +41904,7 @@
     "hint": "",
     "url": "http://107.148.130.61",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -43240,7 +43240,7 @@
     "hint": "",
     "url": "http://45.123.191.69",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -59424,7 +59424,7 @@
     "hint": "",
     "url": "http://141.98.234.13",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -63397,7 +63397,7 @@
     "hint": "",
     "url": "http://103.253.40.148",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -64840,7 +64840,7 @@
     "hint": "",
     "url": "https://31-192-233-41.lg.looking.house",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -67113,7 +67113,7 @@
     "hint": "",
     "url": "https://31-192-233-21.lg.looking.center",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -70528,7 +70528,7 @@
     "hint": "",
     "url": "https://lg.xtom.hk",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -70620,7 +70620,7 @@
     "hint": "",
     "url": "http://sg01.layerstack.com",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
@@ -70752,7 +70752,7 @@
     "hint": "",
     "url": "https://ipv4.lg.cn-hongkong.claw.cloud",
     "location": {
-      "country_code": "HK",
+      "country_code": "CN",
       "city": "Wan Chai",
       "latitude": "22.28142",
       "longitude": "114.17258"
