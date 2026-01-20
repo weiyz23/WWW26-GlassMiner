@@ -257,7 +257,7 @@
     {
         "url": "http://hkd.lg.mlnl.host",
         "ip_addr": "45.123.188.128",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -321,7 +321,7 @@
     {
         "url": "http://154.198.215.75:3128",
         "ip_addr": "154.198.215.75",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -816,7 +816,7 @@
     {
         "url": "http://hkg-cdia.totyun.com",
         "ip_addr": "118.107.9.191",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -1408,7 +1408,7 @@
     {
         "url": "https://lg-hk.ihuaweicloud.cn",
         "ip_addr": "119.12.167.128",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -1519,7 +1519,7 @@
     {
         "url": "https://103.159.88.9",
         "ip_addr": "103.159.88.9",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -1887,7 +1887,7 @@
     {
         "url": "http://lg-hk-g-antiddos.nimbus.com.tw",
         "ip_addr": "103.148.203.6",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -1935,7 +1935,7 @@
     {
         "url": "http://lg-tw-g-antiddos.nimbus.com.tw",
         "ip_addr": "45.115.230.68",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -1999,7 +1999,7 @@
     {
         "url": "http://hkg-cia.totyun.com",
         "ip_addr": "210.56.48.211",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -2334,7 +2334,7 @@
     {
         "url": "https://hknt.lg.juhost.com",
         "ip_addr": "38.207.132.93",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -2782,7 +2782,7 @@
     {
         "url": "http://tw-test.softshellhosting.com",
         "ip_addr": "103.131.189.27",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -2894,7 +2894,7 @@
     {
         "url": "http://dmit-hkg-lite.gubo.org/LookingGlass",
         "ip_addr": "154.3.33.110",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -3358,7 +3358,7 @@
     {
         "url": "http://103.61.139.9",
         "ip_addr": "103.61.139.9",
-        "country": "TW",
+        "country": "CN",
         "city": "Puli",
         "lat": "23.96639",
         "lon": "120.96952",
@@ -3501,7 +3501,7 @@
     {
         "url": "http://hkg-gia.totyun.com",
         "ip_addr": "45.64.52.28",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -4140,7 +4140,7 @@
     {
         "url": "http://hkgia.myctgs.com",
         "ip_addr": "134.122.204.130",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -4556,7 +4556,7 @@
     {
         "url": "http://hkcia.myctgs.com",
         "ip_addr": "121.127.246.159",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -5036,7 +5036,7 @@
     {
         "url": "http://w136.gubo.org/LookingGlass/en.php",
         "ip_addr": "103.117.100.16",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -5068,7 +5068,7 @@
     {
         "url": "https://lg-hk-g.nimbus.com.tw",
         "ip_addr": "103.148.202.13",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -5244,7 +5244,7 @@
     {
         "url": "https://lg.netfront.net/looking_glass",
         "ip_addr": "202.81.252.13",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -6152,7 +6152,7 @@
     {
         "url": "https://lg-hk-cnd.nimbus.com.tw",
         "ip_addr": "210.16.104.2",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -6408,7 +6408,7 @@
     {
         "url": "http://khcia.myctgs.com",
         "ip_addr": "143.92.41.203",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -6616,7 +6616,7 @@
     {
         "url": "https://lg-hk-cndp.nimbus.com.tw",
         "ip_addr": "210.16.106.29",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -7207,7 +7207,7 @@
     {
         "url": "https://103.125.232.232",
         "ip_addr": "103.125.232.232",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -7495,7 +7495,7 @@
     {
         "url": "http://43.228.216.28",
         "ip_addr": "43.228.216.28",
-        "country": "TW",
+        "country": "CN",
         "city": "Puli",
         "lat": "23.96639",
         "lon": "120.96952",
@@ -7511,7 +7511,7 @@
     {
         "url": "https://hk03.layerstack.com",
         "ip_addr": "123.176.101.27",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -7703,7 +7703,7 @@
     {
         "url": "http://speedtest.c1.hkg1.dediserve.com",
         "ip_addr": "103.53.199.50",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -7831,7 +7831,7 @@
     {
         "url": "https://lg.cn-hongkong-intl.claw.cloud",
         "ip_addr": "47.79.18.247",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -8168,7 +8168,7 @@
     {
         "url": "https://trans.ittms.com.tw",
         "ip_addr": "202.168.192.71",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -8519,7 +8519,7 @@
     {
         "url": "http://lg.hkbgp.onetech.cloud",
         "ip_addr": "154.198.227.2",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -9835,7 +9835,7 @@
     {
         "url": "http://144.208.215.21:8000",
         "ip_addr": "108.181.134.142",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -10171,7 +10171,7 @@
     {
         "url": "https://probe-networks.de/lg/?protocol=IPv6&query=bgp&query=trace&query=ping",
         "ip_addr": "103.59.110.170",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -11625,7 +11625,7 @@
     {
         "url": "https://hk1.newmediaexpress.com",
         "ip_addr": "103.60.8.8",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -11737,7 +11737,7 @@
     {
         "url": "http://hkg-cia.totyun.com",
         "ip_addr": "117.18.7.5",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -11848,7 +11848,7 @@
     {
         "url": "http://hk.cmc.dog",
         "ip_addr": "47.242.114.9",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -11992,7 +11992,7 @@
     {
         "url": "https://45.124.64.3",
         "ip_addr": "45.124.64.3",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -12104,7 +12104,7 @@
     {
         "url": "http://w115.gubo.org/LookingGlass",
         "ip_addr": "124.156.138.50",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -12376,7 +12376,7 @@
     {
         "url": "https://hk.lg.mlnl.host",
         "ip_addr": "45.123.191.84",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -13192,7 +13192,7 @@
     {
         "url": "https://hk.lg.62yun.ru",
         "ip_addr": "193.233.193.36",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -13448,7 +13448,7 @@
     {
         "url": "http://107.148.130.61",
         "ip_addr": "107.148.130.61",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -13704,7 +13704,7 @@
     {
         "url": "http://45.123.191.69",
         "ip_addr": "45.123.191.69",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -16776,7 +16776,7 @@
     {
         "url": "http://141.98.234.13",
         "ip_addr": "141.98.234.13",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -17528,7 +17528,7 @@
     {
         "url": "http://103.253.40.148",
         "ip_addr": "103.253.40.148",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -17800,7 +17800,7 @@
     {
         "url": "https://31-192-233-41.lg.looking.house",
         "ip_addr": "31.192.233.41",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -18232,7 +18232,7 @@
     {
         "url": "https://31-192-233-21.lg.looking.center",
         "ip_addr": "31.192.233.21",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -18920,7 +18920,7 @@
     {
         "url": "https://lg.xtom.hk",
         "ip_addr": "45.125.0.9",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -18952,7 +18952,7 @@
     {
         "url": "http://sg01.layerstack.com",
         "ip_addr": "43.228.124.125",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -19000,7 +19000,7 @@
     {
         "url": "https://ipv4.lg.cn-hongkong.claw.cloud",
         "ip_addr": "47.238.150.244",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -140591,7 +140591,7 @@
     {
         "url": "http://premium-cn.hkg.gigsgigscloud.com/lg",
         "ip_addr": "43.251.159.83",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -141102,7 +141102,7 @@
     {
         "url": "http://103.16.228.92:4301",
         "ip_addr": "203.198.116.254",
-        "country": "HK",
+        "country": "CN",
         "city": "Sai Kung",
         "lat": "22.38333",
         "lon": "114.26667",
@@ -141485,7 +141485,7 @@
     {
         "url": "https://lg-taiwan.hybridserver.net",
         "ip_addr": "103.59.108.167",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -141709,7 +141709,7 @@
     {
         "url": "http://w180.gubo.org/LookingGlass",
         "ip_addr": "45.78.16.144",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -141837,7 +141837,7 @@
     {
         "url": "https://lg-hkg.herzacloud.com",
         "ip_addr": "206.237.105.100",
-        "country": "HK",
+        "country": "CN",
         "city": "Tsuen Wan",
         "lat": "22.37066",
         "lon": "114.10479",
@@ -141932,7 +141932,7 @@
     {
         "url": "http://hk4.lg.starrydns.com",
         "ip_addr": "103.56.217.77",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -142283,7 +142283,7 @@
     {
         "url": "http://w228.gubo.org/LookingGlass",
         "ip_addr": "154.12.177.82",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -142775,7 +142775,7 @@
     {
         "url": "http://w194.gubo.org/LookingGlass",
         "ip_addr": "149.62.46.28",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -142871,7 +142871,7 @@
     {
         "url": "https://103.135.101.161",
         "ip_addr": "103.135.101.161",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -142967,7 +142967,7 @@
     {
         "url": "http://nat0.mlnl.host:4301",
         "ip_addr": "203.198.116.254",
-        "country": "HK",
+        "country": "CN",
         "city": "Sai Kung",
         "lat": "22.38333",
         "lon": "114.26667",
@@ -143463,7 +143463,7 @@
     {
         "url": "http://w172.gubo.org/LookingGlass",
         "ip_addr": "37.123.198.118",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -143655,7 +143655,7 @@
     {
         "url": "http://saltyfish-hkg-lite.gubo.org/LookingGlass",
         "ip_addr": "37.123.198.118",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -144019,7 +144019,7 @@
     {
         "url": "http://w70.gubo.org/LookingGlass",
         "ip_addr": "103.118.41.188",
-        "country": "HK",
+        "country": "CN",
         "city": "Sai Kung",
         "lat": "22.38333",
         "lon": "114.26667",
@@ -144145,7 +144145,7 @@
     {
         "url": "http://w229.gubo.org/LookingGlass",
         "ip_addr": "5.253.16.189",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -145450,7 +145450,7 @@
     {
         "url": "http://hk2.cmc.dog",
         "ip_addr": "103.135.101.161",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -146216,7 +146216,7 @@
     {
         "url": "https://103.109.101.32",
         "ip_addr": "103.109.100.166",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -146692,7 +146692,7 @@
     {
         "url": "http://lg-taiwan.hybridserver.net",
         "ip_addr": "103.59.108.167",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -146963,7 +146963,7 @@
     {
         "url": "http://w55.gubo.org/LookingGlass",
         "ip_addr": "93.179.124.171",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -147027,7 +147027,7 @@
     {
         "url": "http://www.lg.hk.koddos.com",
         "ip_addr": "103.109.100.166",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -156054,7 +156054,7 @@
     {
         "url": "https://lg5.ipserverone.com",
         "ip_addr": "103.93.72.251",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -156129,7 +156129,7 @@
     {
         "url": "https://speedtest.hk01.enzu.com",
         "ip_addr": "38.34.186.6",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -158736,7 +158736,7 @@
     {
         "url": "https://103.166.126.12",
         "ip_addr": "103.166.126.12",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -159617,7 +159617,7 @@
     {
         "url": "https://lg.hk.eserver.net",
         "ip_addr": "103.166.126.12",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -160127,7 +160127,7 @@
     {
         "url": "http://lg.hkg.hosthatch.com",
         "ip_addr": "103.214.22.76",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -160770,7 +160770,7 @@
     {
         "url": "http://38.34.186.6",
         "ip_addr": "38.34.186.6",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -161396,7 +161396,7 @@
     {
         "url": "https://speedtest.hk01.budgetvm.com",
         "ip_addr": "38.34.186.6",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -161621,7 +161621,7 @@
     {
         "url": "https://23.162.24.22",
         "ip_addr": "23.162.24.22",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -161695,7 +161695,7 @@
     {
         "url": "http://hk-lg.hostus.us",
         "ip_addr": "45.124.66.6",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -162879,7 +162879,7 @@
     {
         "url": "https://38.207.142.33",
         "ip_addr": "38.207.142.33",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -162984,7 +162984,7 @@
     {
         "url": "https://hk-lg.orangevps.com",
         "ip_addr": "31.58.152.19",
-        "country": "HK",
+        "country": "CN",
         "city": "Tsuen Wan",
         "lat": "22.37066",
         "lon": "114.10479",
@@ -163789,7 +163789,7 @@
     {
         "url": "http://103.214.22.76",
         "ip_addr": "103.214.22.76",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -163879,7 +163879,7 @@
     {
         "url": "http://lg.hkg.hosthatch.com/?targetHost=6",
         "ip_addr": "103.214.22.76",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -164672,7 +164672,7 @@
     {
         "url": "http://hkg.lg.salmoncloud.co.uk/index.php",
         "ip_addr": "180.131.144.10",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -165467,7 +165467,7 @@
     {
         "url": "http://lg-tw.serverfield.com.tw",
         "ip_addr": "103.51.140.68",
-        "country": "TW",
+        "country": "CN",
         "city": "Taipei",
         "lat": "25.04776",
         "lon": "121.53185",
@@ -165662,7 +165662,7 @@
     {
         "url": "http://31.58.152.19",
         "ip_addr": "31.58.152.19",
-        "country": "HK",
+        "country": "CN",
         "city": "Tsuen Wan",
         "lat": "22.37066",
         "lon": "114.10479",
@@ -165706,7 +165706,7 @@
     {
         "url": "https://hkg1-hk.tohu.me",
         "ip_addr": "23.162.24.22",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -166591,7 +166591,7 @@
     {
         "url": "https://hk-lg.hostus.us",
         "ip_addr": "45.124.66.6",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
@@ -166696,7 +166696,7 @@
     {
         "url": "http://180.131.144.10/index.php",
         "ip_addr": "180.131.144.10",
-        "country": "HK",
+        "country": "CN",
         "city": "Wan Chai",
         "lat": "22.28142",
         "lon": "114.17258",
